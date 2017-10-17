@@ -1,17 +1,17 @@
 # Learn X if you Know Y
 
-Donde X = Lenguaje de programación que quieres aprender y Y = Lenguaje  de programación que conoces
+Where X = Programming language that you want to learn & Y = Programming language that you already know.
 
-Aprende X si sabes Y es una manera diferente de aprender la sintaxis de un lenguaje si conoces otro. Simplemente elige el lenguaje que quieres aprender y el lenguaje que ya conoces, y empieza a aprender con ejemplos comparativos de como realizar diferentes acciones en cada lenguaje.
+Lean X if you know Y is a different way to learn the syntax of a new programming language if you already know other. Just select the language that you want to learn and the language that you already know. Now you can start to learn with comparative examples about coding different stuff in each language.
 
-### Quiero aprender
+### I want to learn
 
-Simplemente dirigete a [Aprende X si sabes Y](https://gersonlazaro.com/aprende-x-si-sabes-y/index.html), elige los lenguajes, y empieza a aprender. Es así de sencillo.
+Just go to [Learn X if you know Y](https://gersonlazaro.com/learn-x-if-you-know-y/index.html), choose the desired languages, and start to learn. It's a piece of cake.
 
-### Quiero colaborar
+### I want to contribute
 
-Este sitio necesita de todos para crecer. Si sabes algún lenguaje de programación (tanto si este lenguaje se encuentra actualmente en el sitio como si no) y quieres ayudarnos, dirigete al archivo [contributing.md](contributing.md) que contiene las instrucciones para colaborar.
+This site needs help to grow. If you know some programming language (it doesn't matter if we already have it in the site or not), and want to help us, go to [contributing.md](contributing.md) and read the instruction for making contributions.
 
-### Licencia
+### License
 
-Este proyecto (el código que hace funcionar al sitio) se realiza utilizando una licencia MIT. Sin embargo todo el contenido se comparte bajo una licencia [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/es/).
+This project (the code behind it) it's under the MIT license. However, all the content in the site is shared under a [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/es/) license.
