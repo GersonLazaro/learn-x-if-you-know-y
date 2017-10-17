@@ -1,0 +1,7 @@
+a = int(raw_input("Ingrese numero: ")) # Lee un entero
+b = raw_input("Ingrese string: ") # Lee un string
+# En python, siempre se lee toda la línea
+
+# Salida de datos
+print "Sin salto de linea"
+print "Con salto de linea\n"

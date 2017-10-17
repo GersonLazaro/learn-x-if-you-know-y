@@ -1,0 +1,14 @@
+# Declaración e inicialización
+a = []
+# Inserción
+a.append(32)
+# Obtener valor en un índice dado
+a[1]
+# Modificar el elemento dado(0) con el valor dado(25)
+a[0] = 25
+# Borrar valor en un índice dado
+del a[1]
+# Borrar todo
+del a[:]
+# Obtener tamaño
+len(a)

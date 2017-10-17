@@ -1,0 +1,14 @@
+// Declaración e inicialización
+ArrayList<Integer> a = newArrayList<>();
+// Inserción
+a.add(32);
+// Obtener valor en un índice dado
+a.get(1);
+// Modificar el elemento dado(0) con el valor dado(25)
+a.set(0,25);
+// Borrar valor en un índice dado
+a.remove(1);
+// Borrar todo
+a.clear();
+// Obtener tamaño
+a.size();

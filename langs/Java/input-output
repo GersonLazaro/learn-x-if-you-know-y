@@ -1,0 +1,9 @@
+Scanner sc = newScanner(System.in);
+int a = sc.nextInt(); // Lee un entero
+String c = sc.next(); // Lee un string
+c = sc.nextLine(); // Lee toda la linea
+
+//Salida de datos
+System.out.print("Sin salto de linea");
+System.out.println("Con salto de linea");
+

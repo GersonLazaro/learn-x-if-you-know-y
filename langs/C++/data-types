@@ -1,0 +1,14 @@
+// Los rangos pueden variar según el compilador y arquitectura
+
+short int = 128; Enteros entre -32768 y 32767
+int c = 32768; // Enteros entre -2^31 y (2^31)-1
+long int d = 32768; // Enteros entre -2^31 y (2^31)-1
+long long int d = 2147483648; // Enteros entre -2^63 y (2^63)-1
+float e = 3.14f; // Número de coma flotante y precisión simple
+double g = 3.14; // Número de coma flotante y precisión doble
+long double = 3.14; // Número de coma flotante y precisión extendida
+bool h = true; // Valor booleano (true o false)
+char i = 'a'; // Caracteres
+
+// El siguiente elemento NO es primitivo
+string j = "Texto"; // Cadena de texto

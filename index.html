@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Learn X if you know Y</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atom-one-dark.min.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <style>
+    #comparison h3, #comparison h5, #comparison p {
+      text-align: center;
+    }
+    pre {
+      background-color: #444;
+      color: #FFF;
+      box-shadow: 0 0 10px rgba(0,0,0,.2);
+      padding: 10px;
+      border-radius: 6px;
+      font-size: 13px;
+    }
+  </style>
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gersonlazaroc">
+  <meta name="twitter:creator" content="@gersonlazaroc" />
+  <meta property="og:url" content="https://gersonlazaro.com/learn-x-if-you-know-y/" />
+  <meta property="og:title" content="Learn X if you know Y" />
+  <meta property="og:description" content="Learn X if you know Y (Donde X = Lenguaje que quieres aprender y Y = Lenguaje que ya conoces)." />
+  <meta property="og:image" content="https://gersonlazaro.com/aprende-x-si-sabes-y/cover.jpg" />
+  
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-md navbar-dark bg-info ">
+    <div class="container">
+      <a class="navbar-brand" href="#">Learn X if you know Y</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home
+              <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">About us</a>
+          </li>
+        </ul>
+      </div>
+  </nav>
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <h1 class="display-3">Learn <span id="textX">X</span> if you know <span id="textY">Y</span>!</h1>
+      <p lass="lead">Where X = 
+        <select class="custom-select" id="selectX">
+          <option selected>Select</option>
+        </select>
+        y Y = 
+        <select class="custom-select" id="selectY">
+          <option selected>Select</option>
+        </select>
+        <button class = "btn btn-info" id="learnButton" disabled>Learn!</button>
+      </p>
+      <hr class="my-4">
+      <p class="lead">¿Conoces algún lenguaje de programación? ¿Estás aprendiendo uno nuevo? Aprende X lenguaje comparando cada una de sus instrucciones con su equivalente en el lenguaje Y que ya conocias.</p>
+      <p class="lead">Simplemente elige el lenguaje X que quieres aprender, y el lenguaje Y que ya conoces, y empieza a aprender.</p>
+    </div>
+  </div>
+  <div id="container" class="container">
+    <div id="comparison"></div>
+  </div>
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <p>¿Quieres colaborar en este sitio? Puedes hacer tus aportes en <a href="https://www.github.com/GersonLazaro/aprende-x-si-sabes-y" target="_blank">github.</a></p>
+          <p class="text-right">Realizado por <a href="https://www.gersonlazaro.com" target="_blank">Gerson Lázaro</a> y compartido bajo una licencia <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/es/" target="_blank">CC BY-NC-SA 3.0</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1"
+    crossorigin="anonymous"></script>
+  <script src="js/main.js"></script>  
+</body>
+
+</html>

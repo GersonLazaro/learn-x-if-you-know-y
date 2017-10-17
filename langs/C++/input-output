@@ -1,0 +1,8 @@
+int a, b;
+string c;
+cin >> a; // Lectura de datos
+cin >> a >> b; // Lectura múltiple
+
+//Salida de datos
+cout << "Sin salto de linea";
+cout << "Con salto de linea" << endl;

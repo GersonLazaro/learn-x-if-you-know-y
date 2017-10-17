@@ -1,0 +1,14 @@
+// Declaración e inicialización
+a = new Array();
+// Inserción
+a.push(32);
+// Obtener valor en un índice dado
+a[1];
+// Modificar el elemento dado(0) con el valor dado(25)
+a[0] = 25;
+// Borrar valor en un índice dado
+a.splice(3, 1); // Borra un elemento, iniciando en el indice 3
+// Borrar todo
+a.splice(0, a.length);
+// Obtener tamaño
+a.length;

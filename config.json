@@ -1,0 +1,72 @@
+{
+  "languages": [
+    "C++",
+    "Java",
+    "Javascript",
+    "Python"
+  ],
+  "instructions": [
+    {
+      "name": "Hola Mundo",
+      "description": "Ejemplo clásico de programación: Imprimir en pantalla el texto \"Hola Mundo\".",
+      "filename": "hello-world",
+      "languages": [
+        "C++",
+        "Java",
+        "Javascript",
+        "Python"
+      ]
+     },
+     {
+      "name": "Tipos de datos primitivos",
+      "description": "Declaración de los principales tipos de datos en cada lenguaje",
+      "filename": "data-types",
+      "languages": [
+        "C++",
+        "Java",
+        "Javascript"
+      ]
+     },
+     {
+      "name": "Arreglos",
+      "description": "Colecciones de datos del mismo tipo",
+      "filename": "arrays",
+      "languages": [
+        "C++",
+        "Java",
+        "Javascript",
+        "Python"
+      ]
+     },
+     {
+      "name": "Entrada y salida",
+      "description": "Lectura y escritura desde la entrada y hacia la salida estandar",
+      "filename": "input-output",
+      "languages": [
+        "C++",
+        "Java",
+        "Python"
+      ]
+     },
+     {
+      "name": "Vectores",
+      "description": "Estructura de datos para almacenar elementos",
+      "filename": "vector",
+      "languages": [
+        "C++",
+        "Java",
+        "Javascript",
+        "Python"
+      ]
+     },
+     {
+      "name": "Treeset",
+      "description": "Colección ordenada sin elementos duplicados",
+      "filename": "treeset",
+      "languages": [
+        "C++",
+        "Java"
+      ]
+     }
+  ]
+}

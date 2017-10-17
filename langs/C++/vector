@@ -1,0 +1,14 @@
+// Declaración 
+vector<int> a;
+// Inserción
+a.push_back(32);
+// Obtener valor en un índice dado
+a[1];
+// Modificar el elemento dado(0) con el valor dado(25)
+a[0]=25;
+// Borrar valor (recibe un iterador al elemento a borrar)
+a.erase(it);
+// Borrar todo
+a.clear();
+// Obtener tamaño
+a.size();

@@ -1,0 +1,11 @@
+byte a = 1; // Enteros entre -128 y 127
+short b = 128; // Enteros entre -32768 y 32767
+int c = 32768; // Enteros entre -2^31 y (2^31)-1
+long d = 2147483648l; // Enteros entre -2^63 y (2^63)-1
+float e = 3.14f; // Número de coma flotante y precisión simple
+double g = 3.14; // Número de coma flotante y precisión doble
+boolean h = true; // Valor booleano (true o false)
+char i = 'a'; // Caracteres
+
+// El siguiente elemento NO es primitivo
+String j = "Texto"; // Cadena de texto
