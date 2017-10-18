@@ -1,0 +1,9 @@
+func addTwoNumbers(_ numberOne:Double,_ numberTwo:Double) -> Double? {
+  guard let result = numberOne + numberTwo as? Double else { return nil }
+  return result
+}
+
+// in Swift, methods must say they return something
+// methods must return the type claimed
+// an _ before an input name means that you can call the function without naming the inputs if in order
+// with _, this func is called with addTwoNumber(12, 14) and returns 26. 
