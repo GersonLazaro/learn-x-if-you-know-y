@@ -1,0 +1,3 @@
+def foreach(fn,iterable):
+    for x in iterable: //for each item in the list
+        fn(x) //call the function "fn", passing the item as a parameter
