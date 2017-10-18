@@ -1,5 +1,6 @@
 {
   "languages": [
+    "C",
     "C++",
     "Java",
     "Javascript",
@@ -13,6 +14,7 @@
       "description": "Classic example of programming: Print the text \"Hello World\"",
       "filename": "hello-world",
       "languages": [
+        "C",
         "C++",
         "Java",
         "Javascript",
@@ -49,6 +51,7 @@
       "description": "Reading and writing from the standard input/output",
       "filename": "input-output",
       "languages": [
+        "C",
         "C++",
         "Java",
         "Python"
