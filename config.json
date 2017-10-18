@@ -74,7 +74,7 @@
      },
      {
       "name": "For Loop",
-      "description": "Eexecute a block of code a number of times",
+      "description": "Execute a block of code a number of times",
       "filename": "for-loop",
       "languages": [
         "Javascript"
