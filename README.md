@@ -14,4 +14,5 @@ This site needs help to grow. If you know some programming language (it doesn't 
 
 ### License
 
-This project (the code behind it) it's under the MIT license. However, all the content in the site is shared under a [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) license.
+Project repository is under the MIT license.
+Site content is shared under a [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) license.
