@@ -22,6 +22,7 @@
        "description": "Declaration of methods with parameters.",
        "filename": "methods",
        "languages": [
+         "C++",
          "Java",
          "Javascript",
          "Python"
@@ -34,7 +35,7 @@
       "languages": [
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
       ]
      },
      {
