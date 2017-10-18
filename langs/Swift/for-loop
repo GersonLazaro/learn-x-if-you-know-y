@@ -1,0 +1,7 @@
+for _ in 1...5 { // runs a loop 5 times
+    print("Hello, World!") // executes statement 5 times
+}
+let animals = ["Ant", "Monkey", "Dog", "Cat"]
+for animal in animals { // executes for animal
+    print("Hello, \(animal)!")
+}
