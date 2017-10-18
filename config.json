@@ -81,6 +81,15 @@
       ]
      },
      {
+      "name": "Strings",
+      "description": "String operations",
+      "filename": "strings",
+      "languages": [
+        "Java",
+        "Javascript"
+      ]
+     },
+     {
       "name": "Vectors",
       "description": "Sequence container that encapsulates dynamic size arrays",
       "filename": "vector",
