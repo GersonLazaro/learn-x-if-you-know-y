@@ -33,7 +33,8 @@
          "C++",
          "Java",
          "Javascript",
-         "Python"
+         "Python",
+	 "Go"     
        ]
      },
      {
