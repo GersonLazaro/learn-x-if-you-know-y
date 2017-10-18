@@ -1,0 +1,14 @@
+var str: String
+str = "Roses are red"
+let strLen = str.characters.count // String length --> 13
+// in swift, the index of characters may not be the same as the apparant index
+// fetch character indexes dynamically
+let start = str.index(str.startIndex, offsetBy: 10)
+let end = str.index(str.startIndex, offsetBy: 13)
+let substr = str[start..<end] // "red"
+let n = String(str.characters.map { // Replace "e" Globally --> "Rosas ara rad"
+    $0 == "e" ? "a" : $0
+})
+let strUpperCase = str.uppercased() // To uppercase --> "ROSES ARE RED"
+let strLowerCase = str.lowercased() // To lowercase --> "roses are red"
+let concatStr = str + ", Violets are blue!" // --> "Roses are red, Violets are blue!"
