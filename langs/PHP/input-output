@@ -1,0 +1,19 @@
+<?php
+
+// in case the readline() function not exists, define it
+if (!function_exists("readline")) {
+    function readline($prompt)
+    {
+        echo $prompt;
+        return rtrim(fgets(STDIN)); // gets a line from STDIN, and trim the end-line character
+
+    }
+}
+
+// Input
+$a = (int) readline("Insert a number : ");
+$b = readline("Insert a string : ");
+
+// Output
+echo "Print without jump line";
+echo "Print with jump line\n";

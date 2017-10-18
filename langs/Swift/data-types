@@ -1,0 +1,11 @@
+let interger32 : Int32 = 1 //Integer 32
+let integert64 : Int64 = 1 //Integer 64 
+let integer : Int = 1 //Integer :: On a 32-bit platform Int == Int32; On a 64-bit platform Int == Int64
+let unsigned : UInt = 1 //Unsigned integer 
+let double : Double = 3.14159 //Represents a 64-bit floating-point number 
+let float : Float = 3.14159 //Represents a 32-bit flaoting-point number
+let boolean : Bool = true // boolean value (true or false)
+let char : Character = "C" // Represents all characters (letters, digits, spaces, etc)
+let string : String = "Hi, friend!" //Represen 0 or more characters
+
+//use let when creating a constant and var when creating a mutable variable

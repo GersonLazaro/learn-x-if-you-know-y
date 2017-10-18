@@ -1,9 +1,13 @@
 {
   "languages": [
+    "C",
     "C++",
+    "Go",
     "Java",
     "Javascript",
-    "Python"
+    "Python",
+    "PHP",
+    "Swift"
   ],
   "instructions": [
     {
@@ -11,10 +15,14 @@
       "description": "Classic example of programming: Print the text \"Hello World\"",
       "filename": "hello-world",
       "languages": [
+        "C",
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "PHP",
+        "Swift",
+        "Go"
       ]
      },
      {
@@ -36,6 +44,8 @@
         "C++",
         "Java",
         "Javascript",
+        "Swift",
+        "PHP"
       ]
      },
      {
@@ -46,7 +56,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "PHP"
       ]
      },
      {
@@ -54,9 +65,19 @@
       "description": "Reading and writing from the standard input/output",
       "filename": "input-output",
       "languages": [
+        "C",
         "C++",
         "Java",
-        "Python"
+        "Python",
+        "PHP"
+      ]
+     },
+     {
+      "name": "For Loop",
+      "description": "Eexecute a block of code a number of times",
+      "filename": "for-loop",
+      "languages": [
+        "Javascript"
       ]
      },
      {
@@ -67,7 +88,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "PHP"
       ]
      },
      {

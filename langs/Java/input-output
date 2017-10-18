@@ -1,4 +1,4 @@
-Scanner sc = newScanner(System.in);
+Scanner sc = new Scanner(System.in);
 int a = sc.nextInt(); // Read an integer
 String c = sc.next(); // Read a string
 c = sc.nextLine(); // Read line
