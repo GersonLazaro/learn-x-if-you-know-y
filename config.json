@@ -49,8 +49,8 @@
       ]
      },
      {
-      "name": "Vectores",
-      "description": "Estructura de datos para almacenar elementos",
+      "name": "Vectors",
+      "description": "Sequence container that encapsulates dynamic size arrays",
       "filename": "vector",
       "languages": [
         "C++",
