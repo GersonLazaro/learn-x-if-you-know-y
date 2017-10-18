@@ -1,7 +1,7 @@
-set<int> t; // Declaración
-t.insert(32); // Inserción
-t.count(32); // Verificar si un elemento existe
-t.empty(); // Verificar si el set está vacío
-t.erase(25); // Borrar valor
-t.clear(); // Borrar todo
-t.size(); // Obtener tamaño
+set<int> t; 
+t.insert(32); // Insert
+t.count(32); // Check if an item exists
+t.empty(); // Verify if the TreeSet is empty
+t.erase(25); // Delete value
+t.clear(); // Delete all
+t.size(); // Get size

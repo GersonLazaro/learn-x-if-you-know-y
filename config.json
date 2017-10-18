@@ -61,7 +61,7 @@
      },
      {
       "name": "Treeset",
-      "description": "Colección ordenada sin elementos duplicados",
+      "description": "Orderly collection without duplicate elements",
       "filename": "treeset",
       "languages": [
         "C++",

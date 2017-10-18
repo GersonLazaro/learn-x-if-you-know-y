@@ -1,7 +1,7 @@
-TreeSet<Integer> t = new TreeSet<Integer>(); // Declaración
-t.add(32); // Inserción
-t.contains(32); // Verificar si un elemento existe
-t.isEmpty(); // Verificar si el TreeSet está vacío
-t.remove(25); // Borrar valor
-t.clear(); // Borrar todo
-t.size(); //Obtener tamaño
+TreeSet<Integer> t = new TreeSet<Integer>(); 
+t.add(32); // Insert
+t.contains(32); // Check if an item exists
+t.isEmpty(); // Verify if the TreeSet is empty
+t.remove(25); // Delete value
+t.clear(); // Delete all
+t.size(); // Get size
