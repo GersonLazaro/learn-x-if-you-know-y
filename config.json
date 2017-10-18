@@ -18,6 +18,16 @@
       ]
      },
      {
+       "name": "Methods/Functions",
+       "description": "Declaration of methods with parameters.",
+       "filename": "methods",
+       "languages": [
+         "Java",
+         "Javascript",
+         "Python"
+       ]
+     },
+     {
       "name": "Primitive data types",
       "description": "Declaration of the main data types",
       "filename": "data-types",
