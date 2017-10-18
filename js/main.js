@@ -32,7 +32,7 @@ function loadConfig () {
       // TODO: Manejar error devuelto por el servidor
     }
   };
-  
+
   request.onerror = function() {
     // TODO: Manejar error en la peticion
   };
@@ -94,7 +94,7 @@ function getExample (filename, lang, node) {
   node.appendChild(pre);
   var request = new window.XMLHttpRequest();
   request.open('GET', "langs/" + lang + "/" + filename, true);
-  
+
   request.onload = function () {
     if (request.status >= 200 && request.status < 400) {
       // Configuración leída exitosamente

@@ -2,12 +2,12 @@
   "languages": [
     "C",
     "C++",
+    "Go",
     "Java",
     "Javascript",
     "Python",
     "PHP",
-    "Swift",
-    "Go"
+    "Swift"
   ],
   "instructions": [
     {
@@ -24,6 +24,17 @@
         "Swift",
         "Go"
       ]
+     },
+     {
+       "name": "Methods/Functions",
+       "description": "Declaration of methods with parameters.",
+       "filename": "methods",
+       "languages": [
+         "C++",
+         "Java",
+         "Javascript",
+         "Python"
+       ]
      },
      {
       "name": "Primitive data types",
