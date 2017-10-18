@@ -1,4 +1,4 @@
-This is an automatic text translation from: [https://github.com/GersonLazaro/aprende-x-si-sabes-y/blob/master/contributing.md](Contributing.md in spanish). If you want to check the translation and adjust it, welcome :)
+This is an automatic text translation from: [Contributing.md in spanish](https://github.com/GersonLazaro/aprende-x-si-sabes-y/blob/master/contributing.md). If you want to check the translation and adjust it, welcome :)
 
 
 All contributions are welcome. From a small correction of a letter, to adding an entire language. However, to make the process of collaboration easier, we adopt the following simple rules:
