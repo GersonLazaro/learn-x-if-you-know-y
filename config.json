@@ -4,7 +4,8 @@
     "Java",
     "Javascript",
     "Python",
-    "PHP"
+    "PHP",
+    "Go"
   ],
   "instructions": [
     {
@@ -16,7 +17,8 @@
         "Java",
         "Javascript",
         "Python",
-        "PHP"
+        "PHP",
+        "Go"
       ]
      },
      {
@@ -26,7 +28,8 @@
       "languages": [
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "PHP"
       ]
      },
      {
@@ -48,7 +51,8 @@
       "languages": [
         "C++",
         "Java",
-        "Python"
+        "Python",
+        "PHP"
       ]
      },
      {
