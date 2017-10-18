@@ -18,8 +18,8 @@
       ]
      },
      {
-      "name": "Tipos de datos primitivos",
-      "description": "Declaración de los principales tipos de datos en cada lenguaje",
+      "name": "Primitive data types",
+      "description": "Declaration of the main data types",
       "filename": "data-types",
       "languages": [
         "C++",

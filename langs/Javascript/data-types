@@ -1,7 +1,7 @@
-// Al ser dinámicamente tipado, no se requiere
-// indicar tipo de dato en las variables
+// Javascript is dynamically typed 
+// It is not required to indicate data type in the variables
 
-var a = 10; // Tipo numérico
-var b = true; // Boolean (true o false)
-var c = "Texto"; // String
+var a = 10; // Numeric type
+var b = true; // Boolean (true or false)
+var c = "Text"; // String
 
