@@ -1,10 +1,12 @@
 {
   "languages": [
+    "C",
     "C++",
     "Java",
     "Javascript",
     "Python",
     "PHP",
+    "Swift",
     "Go"
   ],
   "instructions": [
@@ -13,11 +15,13 @@
       "description": "Classic example of programming: Print the text \"Hello World\"",
       "filename": "hello-world",
       "languages": [
+        "C",
         "C++",
         "Java",
         "Javascript",
         "Python",
         "PHP",
+        "Swift",
         "Go"
       ]
      },
@@ -29,6 +33,7 @@
         "C++",
         "Java",
         "Javascript",
+        "Swift",
         "PHP"
       ]
      },
@@ -49,6 +54,7 @@
       "description": "Reading and writing from the standard input/output",
       "filename": "input-output",
       "languages": [
+        "C",
         "C++",
         "Java",
         "Python",
