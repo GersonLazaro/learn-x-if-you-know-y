@@ -1,0 +1,8 @@
+<?php
+
+// PHP is dynamically typed 
+// It is not required to indicate data type in the variables
+
+$a = 10; // Numeric type
+$b = true; // Boolean (true or false)
+$c = "Text"; // String

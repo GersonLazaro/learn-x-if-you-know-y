@@ -1,3 +1,5 @@
+<?php
+
 $a = [];
 // Insert
 array_push($a, 32);
