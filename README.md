@@ -15,4 +15,4 @@ This site needs help to grow. If you know some programming language (it doesn't 
 ### License
 
 Project repository is under the MIT license.
-Site content is shared under a [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/es/) license.
+Site content is shared under a [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) license.
