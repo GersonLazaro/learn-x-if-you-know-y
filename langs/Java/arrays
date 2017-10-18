@@ -1,4 +1,4 @@
-int a[] = new int[100]; // Creación
-int b[] = {1,2,3,4,5}; // Creación con inicialización
+int a[] = new int[100]; // Creation
+int b[] = {1,2,3,4,5}; // Creation and initialization
 
-a[5] = 34; // Acceso y modificación
+a[5] = 34; // Access and modification

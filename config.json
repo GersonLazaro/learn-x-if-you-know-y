@@ -28,8 +28,8 @@
       ]
      },
      {
-      "name": "Arreglos",
-      "description": "Colecciones de datos del mismo tipo",
+      "name": "Arrays",
+      "description": "Data Collections",
       "filename": "arrays",
       "languages": [
         "C++",
