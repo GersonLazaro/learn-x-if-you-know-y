@@ -1,0 +1,10 @@
+import java.util;
+public class ForEachLoop{
+	List<E> list = new ArrayList<>(); //make a new list
+
+	public static void main(String[] args){
+		for(E item : list){ //for each item in list
+			System.out.println(item); //print out each item
+		}
+	}
+}
