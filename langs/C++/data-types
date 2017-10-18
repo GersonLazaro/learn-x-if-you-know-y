@@ -10,5 +10,5 @@ long double = 3.14; // Floating point number and extended precision
 bool h = true; // Boolean value (true or false)
 char i = 'a'; // Character
 
-// The next element is NOT primitive
+// The next element is NOT a primitive
 string j = "Text"; // Text string
