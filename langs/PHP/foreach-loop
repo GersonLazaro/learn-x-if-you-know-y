@@ -1,0 +1,5 @@
+$arr = array(1, 2, 3, 4); //defines array, see data structure documentation
+
+foreach ($arr as &$value) { //loop once for each object in the array
+    $value = $value * 2; //execute statement for each object
+}
