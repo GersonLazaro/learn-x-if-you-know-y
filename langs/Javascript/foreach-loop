@@ -1,0 +1,7 @@
+var heroes = ["Superman", "Batman", "The Flash"];
+
+// Interate to define array heroes
+heroes.forEach(function(current){
+    // Show the content of array
+    console.log(current); 
+});

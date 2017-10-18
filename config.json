@@ -81,6 +81,14 @@
       ]
      },
      {
+      "name": "Foreach Loop",
+      "description": "Execute a block of code on each element of an array",
+      "filename": "for-loop",
+      "languages": [
+        "Javascript"
+      ]
+     },
+     {
       "name": "Vectors",
       "description": "Sequence container that encapsulates dynamic size arrays",
       "filename": "vector",
