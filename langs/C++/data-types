@@ -1,6 +1,6 @@
 // Ranges may vary according to compiler and architecture
 
-short int = 128; Integers between -32768 and 32767
+short int = 128; // Integers between -32768 and 32767
 int c = 32768; // Integers between -2^31 and (2^31)-1
 long int d = 32768; // Integers between -2^31 and (2^31)-1
 long long int d = 2147483648; // Integers between -2^63 and (2^63)-1
