@@ -3,7 +3,8 @@
     "C++",
     "Java",
     "Javascript",
-    "Python", 
+    "Python",
+    "PHP",
     "Swift"
   ],
   "instructions": [
@@ -15,7 +16,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Python", 
+        "Python",
+        "PHP",
         "Swift"
       ]
      },
@@ -38,7 +40,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "PHP"
       ]
      },
      {
