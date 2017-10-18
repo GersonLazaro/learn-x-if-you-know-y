@@ -9,8 +9,7 @@
     "PHP",
     "Swift"
   ],
-  "instructions": [
-    {
+  "instructions": [{
       "name": "Hello World",
       "description": "Classic example of programming: Print the text \"Hello World\"",
       "filename": "hello-world",
@@ -19,28 +18,28 @@
         "C++",
         "Java",
         "Javascript",
-	"Kotlin",
+        "Kotlin",
         "Python",
         "PHP",
         "Swift",
         "Go"
       ]
-     },
-     {
-       "name": "Methods/Functions",
-       "description": "Declaration of methods with parameters.",
-       "filename": "methods",
-       "languages": [
-         "C++",
-	 "Go",
-         "Java",
-         "Javascript",
-	 "Kotlin",
-         "Python",
-	 "Swift", 
-       ]
-     },
-     {
+    },
+    {
+      "name": "Methods/Functions",
+      "description": "Declaration of methods with parameters.",
+      "filename": "methods",
+      "languages": [
+        "C++",
+        "Go",
+        "Java",
+        "Javascript",
+        "Kotlin",
+        "Python",
+        "Swift"
+      ]
+    },
+    {
       "name": "Primitive data types",
       "description": "Declaration of the main data types",
       "filename": "data-types",
@@ -48,12 +47,12 @@
         "C++",
         "Java",
         "Javascript",
-	"Kotlin",
+        "Kotlin",
         "Swift",
         "PHP"
       ]
-     },
-     {
+    },
+    {
       "name": "Arrays",
       "description": "Data Collections",
       "filename": "arrays",
@@ -61,12 +60,12 @@
         "C++",
         "Java",
         "Javascript",
-	"PHP",
+        "PHP",
         "Python",
-	"Swift"
+        "Swift"
       ]
-     },
-     {
+    },
+    {
       "name": "Input/Output",
       "description": "Reading and writing from the standard input/output",
       "filename": "input-output",
@@ -74,42 +73,42 @@
         "C",
         "C++",
         "Java",
-	"Kotlin",
+        "Kotlin",
         "Python",
         "PHP"
       ]
-     },
-     {
+    },
+    {
       "name": "For Loop",
       "description": "Execute a block of code a number of times",
       "filename": "for-loop",
       "languages": [
         "Javascript",
-	"PHP",
-	"Swift"
+        "PHP",
+        "Swift"
       ]
-     },
-     {
+    },
+    {
       "name": "For-Each loop",
       "description": "Iterate over a collection, running the loop once for each item",
       "filename": "for-each-loop",
       "languages": [
         "Java",
-	"Javascript",
-	"PHP"
+        "Javascript",
+        "PHP"
       ]
-     },
-     {
+    },
+    {
       "name": "Strings",
       "description": "String operations",
       "filename": "strings",
       "languages": [
         "Java",
         "Javascript",
-	"Swift"
+        "Swift"
       ]
-     },
-     {
+    },
+    {
       "name": "Vectors",
       "description": "Sequence container that encapsulates dynamic size arrays",
       "filename": "vector",
@@ -120,8 +119,8 @@
         "Python",
         "PHP"
       ]
-     },
-     {
+    },
+    {
       "name": "Treeset",
       "description": "Orderly collection without duplicate elements",
       "filename": "treeset",
@@ -129,22 +128,22 @@
         "C++",
         "Java"
       ]
-     },
-     {
+    },
+    {
       "name": "Concatenation",
       "description": "Join two strings",
       "filename": "concatenation",
       "languages": [
         "Kotlin"
       ]
-     },
-     {
+    },
+    {
       "name": "Add",
       "description": "Add two numbers",
       "filename": "add",
       "languages": [
         "Kotlin"
       ]
-     }
+    }
   ]
 }
