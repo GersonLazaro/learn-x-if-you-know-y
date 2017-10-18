@@ -62,6 +62,14 @@
       ]
      },
      {
+      "name": "For Loop",
+      "description": "Eexecute a block of code a number of times",
+      "filename": "for-loop",
+      "languages": [
+        "Javascript"
+      ]
+     },
+     {
       "name": "Vectors",
       "description": "Sequence container that encapsulates dynamic size arrays",
       "filename": "vector",
