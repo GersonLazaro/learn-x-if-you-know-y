@@ -19,6 +19,7 @@
         "C++",
         "Java",
         "Javascript",
+	"Kotlin",
         "Python",
         "PHP",
         "Swift",
@@ -31,10 +32,12 @@
        "filename": "methods",
        "languages": [
          "C++",
+	 "Go",
          "Java",
          "Javascript",
+	 "Kotlin",
          "Python",
-         "Go"     
+	 "Swift", 
        ]
      },
      {
@@ -45,6 +48,7 @@
         "C++",
         "Java",
         "Javascript",
+	"Kotlin",
         "Swift",
         "PHP"
       ]
@@ -57,8 +61,9 @@
         "C++",
         "Java",
         "Javascript",
+	"PHP",
         "Python",
-        "PHP"
+	"Swift"
       ]
      },
      {
@@ -69,6 +74,7 @@
         "C",
         "C++",
         "Java",
+	"Kotlin",
         "Python",
         "PHP"
       ]
@@ -78,7 +84,19 @@
       "description": "Execute a block of code a number of times",
       "filename": "for-loop",
       "languages": [
-        "Javascript"
+        "Javascript",
+	"PHP",
+	"Swift"
+      ]
+     },
+     {
+      "name": "For-Each loop",
+      "description": "Iterate over a collection, running the loop once for each item",
+      "filename": "for-each-loop",
+      "languages": [
+        "Java",
+	"Javascript",
+	"PHP"
       ]
      },
      {
@@ -87,7 +105,8 @@
       "filename": "strings",
       "languages": [
         "Java",
-        "Javascript"
+        "Javascript",
+	"Swift"
       ]
      },
      {
@@ -112,12 +131,19 @@
       ]
      },
      {
-      "name": "For-Each loop",
-      "description": "Iterate over a collection, running the loop once for each item",
-      "filename": "for-each-loop",
+      "name": "Concatenation",
+      "description": "Join two strings",
+      "filename": "concatenation",
       "languages": [
-        "Java",
-	"Javascript"
+        "Kotlin"
+      ]
+     },
+     {
+      "name": "Add",
+      "description": "Add two numbers",
+      "filename": "add",
+      "languages": [
+        "Kotlin"
       ]
      }
   ]
