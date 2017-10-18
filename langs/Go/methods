@@ -1,0 +1,11 @@
+package main
+
+//In go, a field is public if its name starts in UPPERCASE and is private
+//if it name starts in lowercase
+//If more than one parameter share the same data type, you can just indicated in the
+//last one 
+
+func addTwoNumbers(x, y int32) int32 {
+  //Look no semi-colons
+  return x + y
+}
