@@ -39,8 +39,8 @@
       ]
      },
      {
-      "name": "Entrada y salida",
-      "description": "Lectura y escritura desde la entrada y hacia la salida estandar",
+      "name": "Input/Output",
+      "description": "Reading and writing from the standard input/output",
       "filename": "input-output",
       "languages": [
         "C++",

@@ -1,8 +1,8 @@
 int a, b;
 string c;
-cin >> a; // Lectura de datos
-cin >> a >> b; // Lectura múltiple
+cin >> a; // Reading data
+cin >> a >> b; // Multiple reading
 
-//Salida de datos
-cout << "Sin salto de linea";
-cout << "Con salto de linea" << endl;
+// Output
+cout << "Print without jump line";
+cout << "Print with jump line" << endl;
