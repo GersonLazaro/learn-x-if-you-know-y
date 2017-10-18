@@ -83,7 +83,7 @@
      {
       "name": "Foreach Loop",
       "description": "Execute a block of code on each element of an array",
-      "filename": "for-loop",
+      "filename": "foreach-loop",
       "languages": [
         "Javascript"
       ]
