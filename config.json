@@ -7,8 +7,8 @@
   ],
   "instructions": [
     {
-      "name": "Hola Mundo",
-      "description": "Ejemplo clásico de programación: Imprimir en pantalla el texto \"Hola Mundo\".",
+      "name": "Hello World",
+      "description": "Classic example of programming: Print the text \"Hello World\"",
       "filename": "hello-world",
       "languages": [
         "C++",
