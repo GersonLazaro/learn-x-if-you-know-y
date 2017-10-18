@@ -3,7 +3,8 @@
     "C++",
     "Java",
     "Javascript",
-    "Python"
+    "Python", 
+    "Swift"
   ],
   "instructions": [
     {
@@ -14,7 +15,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "Python", 
+        "Swift"
       ]
      },
      {
@@ -24,7 +26,8 @@
       "languages": [
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Swift"
       ]
      },
      {
