@@ -19,7 +19,7 @@ You review Java knowing C ++ and you see an example that then does not appear if
 
 #### If you want to add a new language
 
-If you want to add a new language, add your folder in langs and follow the instructions in the previous point. The folder name must start in uppercase. At the moment of sending the Pull Request, clarifies in the title that it is a new language.
+If you want to add a new language, add your folder in langs and follow the instructions in the previous point. The folder name must start in uppercase. At the moment of sending the Pull Request, clarify in the title that it is a new language.
 
 #### If you have other ideas for this site
 
