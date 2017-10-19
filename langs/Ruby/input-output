@@ -1,0 +1,13 @@
+puts "Enter your name" #serves as prompt
+
+#input
+name = gets.chomp #=> while taking input from gets, the interpreter also takes
+		  # a new line, which is removed by adding the method *chomp*
+
+age = gets.to_i #=> input a number
+
+#output
+print name #prints the value of name without new-line
+puts name #prints the value if name along with a new-line
+print age
+puts age
