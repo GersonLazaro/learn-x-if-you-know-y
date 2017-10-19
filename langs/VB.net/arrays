@@ -1,0 +1,7 @@
+Dim array(4) As Integer 'Declare an Int array with 5 elements (index 0)
+Dim langs(4) As String 'Declare an String array with 5 elements (index 0)
+
+Dim langs() As String = {"English", "Spanish", "Portuguese", "French", "Italian"} 'Declare an String array with 5 elements (index 0) and a default value for each element
+Dim array() As Integer = {1, 2, 3, 4, 5}    'Declare an array with 5 elements (index 0) and a default value for each element
+
+ReDim array(10) 'Resize an array for 11 elements (index 0)

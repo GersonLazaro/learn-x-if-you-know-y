@@ -2,14 +2,16 @@
   "languages": [
     "C",
     "C++",
+    "C#",
     "Go",
     "Java",
     "Javascript",
     "Kotlin",
     "PHP",
-    "Python",
+    "Python",  
+    "Ruby",
     "Swift",
-    "C#"
+    "VB.Net"
   ],
   "instructions": [{
       "name": "Hello World",
@@ -18,14 +20,16 @@
       "languages": [
         "C",
         "C++",
+        "C#",
+        "Go",
         "Java",
         "Javascript",
         "Kotlin",
-        "Python",
         "PHP",
+        "Python",
+        "Ruby",
         "Swift",
-        "Go",
-        "C#"
+        "VB.Net"
       ]
     },
     {
@@ -34,13 +38,15 @@
       "filename": "methods",
       "languages": [
         "C++",
+        "C#",
         "Go",
         "Java",
         "Javascript",
         "Kotlin",
         "Python",
-        "Swift",
-        "C#"
+        "PHP",
+        "Ruby",
+        "Swift"
       ]
     },
     {
@@ -49,12 +55,12 @@
       "filename": "data-types",
       "languages": [
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "Kotlin",
-        "Swift",
         "PHP",
-        "C#"
+        "Swift"
       ]
     },
     {
@@ -63,12 +69,14 @@
       "filename": "arrays",
       "languages": [
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "PHP",
         "Python",
+        "Ruby",
         "Swift",
-        "C#"
+        "VB.Net"
       ]
     },
     {
@@ -80,8 +88,10 @@
         "C++",
         "Java",
         "Kotlin",
+        "PHP",
         "Python",
-        "PHP"
+        "Ruby",
+        "VB.Net"
       ]
     },
     {
@@ -89,10 +99,13 @@
       "description": "Execute a block of code a number of times",
       "filename": "for-loop",
       "languages": [
+        "C#",
         "Javascript",
         "PHP",
+        "Python",
+        "Ruby",
         "Swift",
-        "C#"
+        "VB.Net"
       ]
     },
     {
@@ -100,10 +113,13 @@
       "description": "Iterate over a collection, running the loop once for each item",
       "filename": "for-each-loop",
       "languages": [
+        "C++",
+        "C#",
         "Java",
         "Javascript",
         "PHP",
-        "C#"
+        "Ruby",
+        "VB.Net"
       ]
     },
     {
@@ -111,10 +127,13 @@
       "description": "String operations",
       "filename": "strings",
       "languages": [
+        "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Swift",
-        "C#"
+        "PHP",
+        "Python",
+        "Swift"
       ]
     },
     {
@@ -123,11 +142,12 @@
       "filename": "vector",
       "languages": [
         "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Python",
         "PHP",
-        "C#"
+        "Python",
+        "Ruby"
       ]
     },
     {
@@ -144,7 +164,9 @@
       "description": "Join two strings",
       "filename": "concatenation",
       "languages": [
-        "Kotlin"
+        "Javascript",
+        "Kotlin",
+        "Ruby"
       ]
     },
     {
@@ -152,6 +174,7 @@
       "description": "Add two numbers",
       "filename": "add",
       "languages": [
+        "Javascript",
         "Kotlin"
       ]
     }
