@@ -38,6 +38,7 @@
       "filename": "methods",
       "languages": [
         "C++",
+        "C#",
         "Go",
         "Java",
         "Javascript",
@@ -54,6 +55,7 @@
       "filename": "data-types",
       "languages": [
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "Kotlin",
@@ -67,6 +69,7 @@
       "filename": "arrays",
       "languages": [
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "PHP",
@@ -96,6 +99,7 @@
       "description": "Execute a block of code a number of times",
       "filename": "for-loop",
       "languages": [
+        "C#",
         "Javascript",
         "PHP",
         "Python",
@@ -110,6 +114,7 @@
       "filename": "for-each-loop",
       "languages": [
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "PHP",
@@ -123,6 +128,7 @@
       "filename": "strings",
       "languages": [
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "PHP",
@@ -136,6 +142,7 @@
       "filename": "vector",
       "languages": [
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "PHP",
