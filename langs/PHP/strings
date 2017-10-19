@@ -1,0 +1,11 @@
+<?php
+
+$str = "Roses are red";
+$strLen = strlen($str); // String length --> 13
+$substr = substr($str, 10, 3); // "red"
+$n = str_replace("e", "D",$str); // Replace "e" Globally --> "RosDs arD rDd"
+$strUpperCase = strtoupper($str); // To uppercase --> "ROSES ARE RED"
+$strLowerCase = strtolower($str); // To lowercase --> "roses are red"
+$concatStr = $str . ", Violets are blue!"; // --> "Roses are red, Violets are blue!"
+
+// PHP uses dot (.) character to concatenate string

@@ -39,6 +39,7 @@
         "Javascript",
         "Kotlin",
         "Python",
+        "PHP"
         "Swift" ,
         "Ruby"
       ]
@@ -113,6 +114,8 @@
       "languages": [
         "Java",
         "Javascript",
+        "Swift",
+        "PHP"
         "Python",
         "Swift"
       ]
