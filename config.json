@@ -2,12 +2,14 @@
   "languages": [
     "C",
     "C++",
+    "C#",
     "Go",
     "Java",
     "Javascript",
     "Kotlin",
     "PHP",
     "Python",
+    "Ruby",
     "Swift"
   ],
   "instructions": [{
@@ -17,13 +19,15 @@
       "languages": [
         "C",
         "C++",
+        "C#",
+        "Go",
         "Java",
         "Javascript",
         "Kotlin",
-        "Python",
         "PHP",
-        "Swift",
-        "Go"
+        "Python",
+        "Ruby",
+        "Swift"
       ]
     },
     {
@@ -37,6 +41,8 @@
         "Javascript",
         "Kotlin",
         "Python",
+        "PHP",
+        "Ruby",
         "Swift"
       ]
     },
@@ -49,8 +55,8 @@
         "Java",
         "Javascript",
         "Kotlin",
-        "Swift",
-        "PHP"
+        "PHP",
+        "Swift"
       ]
     },
     {
@@ -63,6 +69,7 @@
         "Javascript",
         "PHP",
         "Python",
+        "Ruby",
         "Swift"
       ]
     },
@@ -75,8 +82,9 @@
         "C++",
         "Java",
         "Kotlin",
+        "PHP",
         "Python",
-        "PHP"
+        "Ruby"
       ]
     },
     {
@@ -86,6 +94,8 @@
       "languages": [
         "Javascript",
         "PHP",
+        "Python",
+        "Ruby",
         "Swift"
       ]
     },
@@ -96,7 +106,8 @@
       "languages": [
         "Java",
         "Javascript",
-        "PHP"
+        "PHP",
+        "Ruby"
       ]
     },
     {
@@ -106,6 +117,8 @@
       "languages": [
         "Java",
         "Javascript",
+        "PHP",
+        "Python",
         "Swift"
       ]
     },
@@ -117,8 +130,9 @@
         "C++",
         "Java",
         "Javascript",
+        "PHP",
         "Python",
-        "PHP"
+        "Ruby"
       ]
     },
     {
@@ -135,7 +149,9 @@
       "description": "Join two strings",
       "filename": "concatenation",
       "languages": [
-        "Kotlin"
+        "Javascript",
+        "Kotlin",
+        "Ruby"
       ]
     },
     {
@@ -143,6 +159,7 @@
       "description": "Add two numbers",
       "filename": "add",
       "languages": [
+        "Javascript",
         "Kotlin"
       ]
     }
