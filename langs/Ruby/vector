@@ -1,0 +1,7 @@
+arr1 = [1, 2, 3, 4, 5]
+
+#operation push
+arr1.push(10) #=> arr1 = [1, 2, 3, 4, 5, 10]
+
+#operation pop
+arr1.pop() #deletes last element, arr1 = [1, 2, 3, 4, 5]
