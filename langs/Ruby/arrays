@@ -1,0 +1,6 @@
+arr1 = [] #creation
+arr2 = [1, 2, 3, 4, 5] #creation and Initialization
+arr3 = Array.new # => []
+arr4 = Array.new(2) # => [nil, nil], first parameter is size of array
+arr5 = Array.new(5,"A") #=> ["A", "A", "A", "A", "A"]
+
