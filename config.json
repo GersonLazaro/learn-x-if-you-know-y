@@ -112,6 +112,7 @@
       "description": "String operations",
       "filename": "strings",
       "languages": [
+        "C++",
         "Java",
         "Javascript",
         "Swift",
