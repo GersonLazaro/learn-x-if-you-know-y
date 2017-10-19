@@ -37,6 +37,7 @@
       "description": "Declaration of methods with parameters.",
       "filename": "methods",
       "languages": [
+        "C",
         "C++",
         "C#",
         "Go",
@@ -54,6 +55,7 @@
       "description": "Declaration of the main data types",
       "filename": "data-types",
       "languages": [
+        "C",
         "C++",
         "C#",
         "Java",
@@ -68,6 +70,7 @@
       "description": "Data Collections",
       "filename": "arrays",
       "languages": [
+        "C",
         "C++",
         "C#",
         "Java",
@@ -99,6 +102,7 @@
       "description": "Execute a block of code a number of times",
       "filename": "for-loop",
       "languages": [
+        "C",
         "C#",
         "Javascript",
         "PHP",
@@ -127,6 +131,7 @@
       "description": "String operations",
       "filename": "strings",
       "languages": [
+        "C",
         "C++",
         "C#",
         "Java",
