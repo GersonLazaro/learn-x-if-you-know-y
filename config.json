@@ -146,7 +146,8 @@
       "description": "Join two strings",
       "filename": "concatenation",
       "languages": [
-        "Kotlin" ,
+        "Javascript",
+        "Kotlin",
         "Ruby"
       ]
     },
@@ -155,6 +156,7 @@
       "description": "Add two numbers",
       "filename": "add",
       "languages": [
+        "Javascript",
         "Kotlin"
       ]
     }
