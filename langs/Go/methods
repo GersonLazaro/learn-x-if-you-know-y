@@ -1,11 +1,41 @@
 package main
 
+import fmt
+
 //In go, a field is public if its name starts in UPPERCASE and is private
 //if it name starts in lowercase
 //If more than one parameter share the same data type, you can just indicated in the
 //last one 
 
+//This is function
 func addTwoNumbers(x, y int32) int32 {
   //Look no semi-colons
   return x + y
 }
+
+//People struct like class that has attributes FirstName, and LastName
+type People struct {
+  FirstName string
+  LastName  string
+}
+
+//This is function
+//getFullName function
+func getFullName(p People) string {
+  return p.FirstName + ' ' + p.LastName
+}
+
+//This is method
+//getFullName method has People reference
+func(p People) getFullName() string {
+  return p.FirstName + ' ' + p.LastName
+}
+
+//Different between calling method and function:
+p := People{FirstName: "Ali", LastName: "LastName"}
+
+//calling function
+fmt.Println(getFullName(p))
+
+//calling method
+fmt.Println(p.getFullName())

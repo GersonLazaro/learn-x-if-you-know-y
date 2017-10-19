@@ -8,7 +8,9 @@
     "Kotlin",
     "PHP",
     "Python",
-    "Swift"
+    "Swift",
+    "Ruby",
+    "Scala"
   ],
   "instructions": [{
       "name": "Hello World",
@@ -23,7 +25,9 @@
         "Python",
         "PHP",
         "Swift",
-        "Go"
+        "Go",
+        "Ruby",
+        "Scala"
       ]
     },
     {
