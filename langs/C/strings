@@ -1,0 +1,4 @@
+char str[50] = "Roses are red";
+char str1[20] = "Violets are blue!";
+int strLen = strlen(str); String length --> 13
+strcat(str, str1); // --> "Roses are red, Violets are blue!"

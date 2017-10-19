@@ -1,0 +1,5 @@
+string str = "Roses are red";
+int strLen = str.size(); String length --> 13
+int strLen = str.length(); String length --> 13
+string subStr = str.substr(10, 3); // "red"
+string concatStr = str + ", Violets are blue!"; // --> "Roses are red, Violets are blue!"
