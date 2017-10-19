@@ -1,0 +1,4 @@
+hacktoberFest = ['pull request', 'four', 'tshirt']
+
+for x in hacktoberFest:
+    print(x)

@@ -1,0 +1,2 @@
+puts("Hello World") #=> prints "Hello World" along with new-line
+print("Hello World") # => prints "Hello World" without new-line
