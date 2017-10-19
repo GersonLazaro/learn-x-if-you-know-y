@@ -6,6 +6,7 @@ foreach ($arr as &$value) { //loop once for each object in the array
     $value = $value * 2; //execute statement for each object
 }
 
+// you can also get the key/index of array in for-each-loop
 foreach ($arr as $key => $value) {
     echo "Array value for index {$key} is {$value}\n";
 }
