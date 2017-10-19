@@ -101,6 +101,7 @@
       "description": "Iterate over a collection, running the loop once for each item",
       "filename": "for-each-loop",
       "languages": [
+        "C++",
         "Java",
         "Javascript",
         "PHP" ,
