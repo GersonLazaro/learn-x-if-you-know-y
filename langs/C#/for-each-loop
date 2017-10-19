@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+
+namespace Example 
+{
+	public class ForEachLoop
+	{
+		List<E> list = new List<E>(); //make a new list
+
+		public static void Main(string[] args)
+		{
+			foreach (E item in list) //for each item in list
+			{ 
+				Console.WriteLine(item); //print out each item
+			}
+		}
+	}
+}

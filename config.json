@@ -8,9 +8,10 @@
     "Javascript",
     "Kotlin",
     "PHP",
-    "Python",
+    "Python",  
     "Ruby",
-    "Swift"
+    "Swift",
+    "VB.Net"
   ],
   "instructions": [{
       "name": "Hello World",
@@ -27,7 +28,8 @@
         "PHP",
         "Python",
         "Ruby",
-        "Swift"
+        "Swift",
+        "VB.Net"
       ]
     },
     {
@@ -37,6 +39,7 @@
       "languages": [
         "C",
         "C++",
+        "C#",
         "Go",
         "Java",
         "Javascript",
@@ -54,6 +57,7 @@
       "languages": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "Kotlin",
@@ -68,12 +72,14 @@
       "languages": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "PHP",
         "Python",
         "Ruby",
-        "Swift"
+        "Swift",
+        "VB.Net"
       ]
     },
     {
@@ -87,7 +93,8 @@
         "Kotlin",
         "PHP",
         "Python",
-        "Ruby"
+        "Ruby",
+        "VB.Net"
       ]
     },
     {
@@ -96,11 +103,13 @@
       "filename": "for-loop",
       "languages": [
         "C",
+        "C#",
         "Javascript",
         "PHP",
         "Python",
         "Ruby",
-        "Swift"
+        "Swift",
+        "VB.Net"
       ]
     },
     {
@@ -108,10 +117,13 @@
       "description": "Iterate over a collection, running the loop once for each item",
       "filename": "for-each-loop",
       "languages": [
+        "C++",
+        "C#",
         "Java",
         "Javascript",
         "PHP",
-        "Ruby"
+        "Ruby",
+        "VB.Net"
       ]
     },
     {
@@ -120,6 +132,8 @@
       "filename": "strings",
       "languages": [
         "C",
+        "C++",
+        "C#",
         "Java",
         "Javascript",
         "PHP",
@@ -133,6 +147,7 @@
       "filename": "vector",
       "languages": [
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "PHP",
