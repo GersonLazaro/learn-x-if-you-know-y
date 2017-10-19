@@ -2,12 +2,14 @@
   "languages": [
     "C",
     "C++",
+    "C#",
     "Go",
     "Java",
     "Javascript",
     "Kotlin",
     "PHP",
-    "Python",
+    "Python",  
+    "Ruby",
     "Swift",
     "VB.Net"
   ],
@@ -18,13 +20,15 @@
       "languages": [
         "C",
         "C++",
+        "C#",
+        "Go",
         "Java",
         "Javascript",
         "Kotlin",
-        "Python",
         "PHP",
+        "Python",
+        "Ruby",
         "Swift",
-        "Go",
         "VB.Net"
       ]
     },
@@ -39,6 +43,8 @@
         "Javascript",
         "Kotlin",
         "Python",
+        "PHP",
+        "Ruby",
         "Swift"
       ]
     },
@@ -51,8 +57,8 @@
         "Java",
         "Javascript",
         "Kotlin",
-        "Swift",
-        "PHP"
+        "PHP",
+        "Swift"
       ]
     },
     {
@@ -65,6 +71,7 @@
         "Javascript",
         "PHP",
         "Python",
+        "Ruby",
         "Swift",
         "VB.Net"
       ]
@@ -78,8 +85,9 @@
         "C++",
         "Java",
         "Kotlin",
-        "Python",
         "PHP",
+        "Python",
+        "Ruby",
         "VB.Net"
       ]
     },
@@ -90,6 +98,8 @@
       "languages": [
         "Javascript",
         "PHP",
+        "Python",
+        "Ruby",
         "Swift",
         "VB.Net"
       ]
@@ -102,6 +112,7 @@
         "Java",
         "Javascript",
         "PHP",
+        "Ruby",
         "VB.Net"
       ]
     },
@@ -112,6 +123,8 @@
       "languages": [
         "Java",
         "Javascript",
+        "PHP",
+        "Python",
         "Swift"
       ]
     },
@@ -123,8 +136,9 @@
         "C++",
         "Java",
         "Javascript",
+        "PHP",
         "Python",
-        "PHP"
+        "Ruby"
       ]
     },
     {
@@ -141,7 +155,9 @@
       "description": "Join two strings",
       "filename": "concatenation",
       "languages": [
-        "Kotlin"
+        "Javascript",
+        "Kotlin",
+        "Ruby"
       ]
     },
     {
@@ -149,6 +165,7 @@
       "description": "Add two numbers",
       "filename": "add",
       "languages": [
+        "Javascript",
         "Kotlin"
       ]
     }
