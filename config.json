@@ -2,6 +2,7 @@
   "languages": [
     "C",
     "C++",
+    "C#",
     "Go",
     "Java",
     "Javascript",
@@ -9,7 +10,7 @@
     "PHP",
     "Python",
     "Ruby",
-    "Swift" 
+    "Swift"
   ],
   "instructions": [{
       "name": "Hello World",
@@ -18,6 +19,7 @@
       "languages": [
         "C",
         "C++",
+        "C#",
         "Go",
         "Java",
         "Javascript",
