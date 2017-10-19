@@ -8,7 +8,8 @@
     "Kotlin",
     "PHP",
     "Python",
-    "Swift"
+    "Swift",
+    "C#"
   ],
   "instructions": [{
       "name": "Hello World",
@@ -23,7 +24,8 @@
         "Python",
         "PHP",
         "Swift",
-        "Go"
+        "Go",
+        "C#"
       ]
     },
     {
@@ -37,7 +39,8 @@
         "Javascript",
         "Kotlin",
         "Python",
-        "Swift"
+        "Swift",
+        "C#"
       ]
     },
     {
@@ -50,7 +53,8 @@
         "Javascript",
         "Kotlin",
         "Swift",
-        "PHP"
+        "PHP",
+        "C#"
       ]
     },
     {
@@ -63,7 +67,8 @@
         "Javascript",
         "PHP",
         "Python",
-        "Swift"
+        "Swift",
+        "C#"
       ]
     },
     {
@@ -86,7 +91,8 @@
       "languages": [
         "Javascript",
         "PHP",
-        "Swift"
+        "Swift",
+        "C#"
       ]
     },
     {
@@ -96,7 +102,8 @@
       "languages": [
         "Java",
         "Javascript",
-        "PHP"
+        "PHP",
+        "C#"
       ]
     },
     {
@@ -106,7 +113,8 @@
       "languages": [
         "Java",
         "Javascript",
-        "Swift"
+        "Swift",
+        "C#"
       ]
     },
     {
@@ -118,7 +126,8 @@
         "Java",
         "Javascript",
         "Python",
-        "PHP"
+        "PHP",
+        "C#"
       ]
     },
     {
