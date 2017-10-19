@@ -58,6 +58,7 @@
       "description": "Data Collections",
       "filename": "arrays",
       "languages": [
+        "C",
         "C++",
         "Java",
         "Javascript",
