@@ -8,7 +8,8 @@
     "Kotlin",
     "PHP",
     "Python",
-    "Swift"
+    "Ruby",
+    "Swift" 
   ],
   "instructions": [{
       "name": "Hello World",
@@ -17,13 +18,14 @@
       "languages": [
         "C",
         "C++",
+        "Go",
         "Java",
         "Javascript",
         "Kotlin",
-        "Python",
         "PHP",
-        "Swift",
-        "Go"
+        "Python",
+        "Ruby",
+        "Swift"
       ]
     },
     {
@@ -37,6 +39,8 @@
         "Javascript",
         "Kotlin",
         "Python",
+        "PHP",
+        "Ruby",
         "Swift"
       ]
     },
@@ -49,8 +53,8 @@
         "Java",
         "Javascript",
         "Kotlin",
-        "Swift",
-        "PHP"
+        "PHP",
+        "Swift"
       ]
     },
     {
@@ -63,6 +67,7 @@
         "Javascript",
         "PHP",
         "Python",
+        "Ruby",
         "Swift"
       ]
     },
@@ -75,8 +80,9 @@
         "C++",
         "Java",
         "Kotlin",
+        "PHP",
         "Python",
-        "PHP"
+        "Ruby"
       ]
     },
     {
@@ -86,6 +92,7 @@
       "languages": [
         "Javascript",
         "PHP",
+        "Ruby",
         "Swift"
       ]
     },
@@ -96,7 +103,8 @@
       "languages": [
         "Java",
         "Javascript",
-        "PHP"
+        "PHP",
+        "Ruby"
       ]
     },
     {
@@ -106,6 +114,8 @@
       "languages": [
         "Java",
         "Javascript",
+        "PHP",
+        "Python",
         "Swift"
       ]
     },
@@ -117,8 +127,9 @@
         "C++",
         "Java",
         "Javascript",
+        "PHP",
         "Python",
-        "PHP"
+        "Ruby"
       ]
     },
     {
@@ -135,8 +146,9 @@
       "description": "Join two strings",
       "filename": "concatenation",
       "languages": [
+        "Javascript",
         "Kotlin",
-        "Javascript"
+        "Ruby"
       ]
     },
     {
@@ -144,8 +156,8 @@
       "description": "Add two numbers",
       "filename": "add",
       "languages": [
-        "Kotlin",
-        "Javascript"
+        "Javascript",
+        "Kotlin"
       ]
     }
   ]
