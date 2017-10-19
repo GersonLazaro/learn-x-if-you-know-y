@@ -1,0 +1,14 @@
+Module Module1
+
+    Sub Main()
+
+        While True
+            ' Read value.
+            Dim userInput As String = Console.ReadLine()
+            ' Write the value.
+            Console.WriteLine("You typed " + userInput)
+        End While
+
+    End Sub
+
+End Module

@@ -8,9 +8,10 @@
     "Javascript",
     "Kotlin",
     "PHP",
-    "Python",
+    "Python",  
     "Ruby",
-    "Swift"
+    "Swift",
+    "VB.Net"
   ],
   "instructions": [{
       "name": "Hello World",
@@ -27,7 +28,8 @@
         "PHP",
         "Python",
         "Ruby",
-        "Swift"
+        "Swift",
+        "VB.Net"
       ]
     },
     {
@@ -70,7 +72,8 @@
         "PHP",
         "Python",
         "Ruby",
-        "Swift"
+        "Swift",
+        "VB.Net"
       ]
     },
     {
@@ -84,7 +87,8 @@
         "Kotlin",
         "PHP",
         "Python",
-        "Ruby"
+        "Ruby",
+        "VB.Net"
       ]
     },
     {
@@ -96,7 +100,8 @@
         "PHP",
         "Python",
         "Ruby",
-        "Swift"
+        "Swift",
+        "VB.Net"
       ]
     },
     {
@@ -107,7 +112,8 @@
         "Java",
         "Javascript",
         "PHP",
-        "Ruby"
+        "Ruby",
+        "VB.Net"
       ]
     },
     {
