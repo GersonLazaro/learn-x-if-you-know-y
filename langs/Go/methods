@@ -1,6 +1,6 @@
 package main
 
-import fmt
+import "fmt"
 
 //In go, a field is public if its name starts in UPPERCASE and is private
 //if it name starts in lowercase
