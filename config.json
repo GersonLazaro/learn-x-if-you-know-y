@@ -8,7 +8,8 @@
     "Kotlin",
     "PHP",
     "Python",
-    "Swift"
+    "Swift" ,
+    "Ruby"
   ],
   "instructions": [{
       "name": "Hello World",
@@ -23,7 +24,8 @@
         "Python",
         "PHP",
         "Swift",
-        "Go"
+        "Go" ,
+        "Ruby"
       ]
     },
     {
@@ -37,7 +39,8 @@
         "Javascript",
         "Kotlin",
         "Python",
-        "Swift"
+        "Swift" ,
+        "Ruby"
       ]
     },
     {
@@ -63,7 +66,8 @@
         "Javascript",
         "PHP",
         "Python",
-        "Swift"
+        "Swift" ,
+        "Ruby"
       ]
     },
     {
@@ -76,7 +80,8 @@
         "Java",
         "Kotlin",
         "Python",
-        "PHP"
+        "PHP" ,
+        "Ruby"
       ]
     },
     {
@@ -86,7 +91,8 @@
       "languages": [
         "Javascript",
         "PHP",
-        "Swift"
+        "Swift" ,
+        "Ruby"
       ]
     },
     {
@@ -96,7 +102,8 @@
       "languages": [
         "Java",
         "Javascript",
-        "PHP"
+        "PHP" ,
+        "Ruby"
       ]
     },
     {
@@ -118,7 +125,8 @@
         "Java",
         "Javascript",
         "Python",
-        "PHP"
+        "PHP" ,
+        "Ruby"
       ]
     },
     {
@@ -135,7 +143,8 @@
       "description": "Join two strings",
       "filename": "concatenation",
       "languages": [
-        "Kotlin"
+        "Kotlin" ,
+        "Ruby"
       ]
     },
     {
