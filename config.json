@@ -8,7 +8,8 @@
     "Kotlin",
     "PHP",
     "Python",
-    "Swift"
+    "Swift",
+    "VB.Net"
   ],
   "instructions": [{
       "name": "Hello World",
@@ -23,7 +24,8 @@
         "Python",
         "PHP",
         "Swift",
-        "Go"
+        "Go",
+        "VB.Net"
       ]
     },
     {
@@ -63,7 +65,8 @@
         "Javascript",
         "PHP",
         "Python",
-        "Swift"
+        "Swift",
+        "VB.Net"
       ]
     },
     {
@@ -76,7 +79,8 @@
         "Java",
         "Kotlin",
         "Python",
-        "PHP"
+        "PHP",
+        "VB.Net"
       ]
     },
     {
@@ -86,7 +90,8 @@
       "languages": [
         "Javascript",
         "PHP",
-        "Swift"
+        "Swift",
+        "VB.Net"
       ]
     },
     {
@@ -96,7 +101,8 @@
       "languages": [
         "Java",
         "Javascript",
-        "PHP"
+        "PHP",
+        "VB.Net"
       ]
     },
     {
