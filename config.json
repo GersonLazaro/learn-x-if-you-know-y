@@ -8,8 +8,8 @@
     "Kotlin",
     "PHP",
     "Python",
-    "Swift" ,
-    "Ruby"
+    "Ruby",
+    "Swift" 
   ],
   "instructions": [{
       "name": "Hello World",
@@ -18,14 +18,14 @@
       "languages": [
         "C",
         "C++",
+        "Go",
         "Java",
         "Javascript",
         "Kotlin",
-        "Python",
         "PHP",
-        "Swift",
-        "Go" ,
-        "Ruby"
+        "Python",
+        "Ruby",
+        "Swift"
       ]
     },
     {
@@ -39,9 +39,9 @@
         "Javascript",
         "Kotlin",
         "Python",
-        "PHP"
-        "Swift" ,
-        "Ruby"
+        "PHP",
+        "Ruby",
+        "Swift"
       ]
     },
     {
@@ -53,8 +53,8 @@
         "Java",
         "Javascript",
         "Kotlin",
-        "Swift",
-        "PHP"
+        "PHP",
+        "Swift"
       ]
     },
     {
@@ -67,8 +67,8 @@
         "Javascript",
         "PHP",
         "Python",
-        "Swift" ,
-        "Ruby"
+        "Ruby",
+        "Swift"
       ]
     },
     {
@@ -80,8 +80,8 @@
         "C++",
         "Java",
         "Kotlin",
+        "PHP",
         "Python",
-        "PHP" ,
         "Ruby"
       ]
     },
@@ -92,8 +92,8 @@
       "languages": [
         "Javascript",
         "PHP",
-        "Swift" ,
-        "Ruby"
+        "Ruby",
+        "Swift"
       ]
     },
     {
@@ -104,7 +104,7 @@
         "C++",
         "Java",
         "Javascript",
-        "PHP" ,
+        "PHP",
         "Ruby"
       ]
     },
@@ -116,8 +116,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Swift",
-        "PHP"
+        "PHP",
         "Python",
         "Swift"
       ]
@@ -130,8 +129,8 @@
         "C++",
         "Java",
         "Javascript",
+        "PHP",
         "Python",
-        "PHP" ,
         "Ruby"
       ]
     },
