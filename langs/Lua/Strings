@@ -1,0 +1,8 @@
+string1 = "Lua" 
+print("\"String 1 is\"",string1) 	--OUTPUT: Lua
+
+string2 = 'Lua' 
+print("String 2 is",string2) 		--OUTPUT: Lua
+
+string3 = [["Lua Tutorial"]] 		
+print("String 3 is",string3)		--Output: "Lua Tutorial"
