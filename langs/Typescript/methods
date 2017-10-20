@@ -1,0 +1,3 @@
+function addTwoNumbers(numberOne: number, numberTwo: number): number {
+  return numberOne + numberTwo
+}
