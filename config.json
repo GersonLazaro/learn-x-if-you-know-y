@@ -182,6 +182,14 @@
         "Javascript",
         "Kotlin"
       ]
+    },
+    {
+      "name": "Random",
+      "description": "Get a random number",
+      "filename": "random",
+      "languages": [
+        "Java"
+      ]
     }
   ]
 }
