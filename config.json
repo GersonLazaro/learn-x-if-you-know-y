@@ -8,7 +8,7 @@
     "Javascript",
     "Kotlin",
     "PHP",
-    "Python",  
+    "Python",
     "Ruby",
     "Swift",
     "VB.Net"
@@ -171,7 +171,8 @@
       "languages": [
         "Javascript",
         "Kotlin",
-        "Ruby"
+        "Ruby",
+        "Python"
       ]
     },
     {
