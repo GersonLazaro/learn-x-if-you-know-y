@@ -1,0 +1,13 @@
+List<int> a = new List<int>();
+// Insert
+a.Add(32);
+// Get value at an index
+a[1];
+// Replace the element at index 0 with the given value (25)
+a[0] = 25;
+// Delete value at a given index
+a.RemoveAt(1);
+// Delete all
+a.Clear();
+// Get size
+a.Count;
