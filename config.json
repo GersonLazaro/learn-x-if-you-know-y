@@ -8,9 +8,10 @@
     "Javascript",
     "Kotlin",
     "PHP",
-    "Python",  
+    "Python",
     "Ruby",
     "Swift",
+    "Typescript",
     "VB.Net"
   ],
   "instructions": [{
@@ -29,6 +30,7 @@
         "Python",
         "Ruby",
         "Swift",
+        "Typescript",
         "VB.Net"
       ]
     },
@@ -47,7 +49,8 @@
         "Python",
         "PHP",
         "Ruby",
-        "Swift"
+        "Swift",
+        "Typescript"
       ]
     },
     {
@@ -62,7 +65,8 @@
         "Javascript",
         "Kotlin",
         "PHP",
-        "Swift"
+        "Swift",
+        "Typescript"
       ]
     },
     {
@@ -79,6 +83,7 @@
         "Python",
         "Ruby",
         "Swift",
+        "Typescript",
         "VB.Net"
       ]
     },
@@ -109,6 +114,7 @@
         "Python",
         "Ruby",
         "Swift",
+        "Typescript",
         "VB.Net"
       ]
     },
@@ -123,6 +129,7 @@
         "Javascript",
         "PHP",
         "Ruby",
+        "Typescript",
         "VB.Net"
       ]
     },
@@ -138,7 +145,8 @@
         "Javascript",
         "PHP",
         "Python",
-        "Swift"
+        "Swift",
+        "Typescript"
       ]
     },
     {
@@ -152,7 +160,8 @@
         "Javascript",
         "PHP",
         "Python",
-        "Ruby"
+        "Ruby",
+        "Typescript"
       ]
     },
     {
@@ -180,7 +189,8 @@
       "filename": "add",
       "languages": [
         "Javascript",
-        "Kotlin"
+        "Kotlin",
+        "Typescript"
       ]
     },
     {
@@ -189,6 +199,14 @@
       "filename": "random",
       "languages": [
         "Java"
+      ]
+    },
+    {
+      "name": "Union Types",
+      "description": "Types that represent the union of multiple other types. A variable of such type can contain a value of any of the components of the union",
+      "filename": "union-types",
+      "languages": [
+        "Typescript"
       ]
     }
   ]
