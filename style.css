@@ -1,6 +1,7 @@
 #comparison h3, #comparison h5, #comparison p {
     text-align: center;
-  }
+}
+
 pre {
     background-color: #444;
     color: #FFF;
@@ -8,12 +9,17 @@ pre {
     padding: 10px;
     border-radius: 6px;
     font-size: 13px;
-  }
+}
 
-  .about-container {
+.about-container {
     margin-top: 50px;
-  }
-  h1, h2, h3, h4, h5, h6 {
+}
+
+h1, h2, h3, h4, h5, h6 {
     margin-top: 40px;
     margin-bottom: 50px;
-  }
+}
+
+.for-contributors {
+    padding: 1.5em;
+}

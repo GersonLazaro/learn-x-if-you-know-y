@@ -1,0 +1,14 @@
+/* actual range depends on the particular system and library implementation */
+
+short int hi = 32767;  /* at least 16 bits [−32,767, +32,767] */
+int i = 32767;         /* at least 16 bits [−32,767, +32,767] */
+long int li = 32769;   /* at least 32 bits [-2 ^ 31, (2 ^ 31) - 1] */
+long long int lli = 2147483649; /* at least 64 bits [-2 ^ 63, (2 ^ 63) - 1] */
+float f = 3.14f;  /* single-precision floating-point type */
+double lg = 3.14; /* double-precision floating-point type */
+long double Lg = 3.14; /* extended-precision floating-point type */
+bool b = false; /* true or false */
+char c = 'C';   /* character */
+
+/* The following is NOT a primitive */
+char *str = "this is just a string of chars"; /* string */

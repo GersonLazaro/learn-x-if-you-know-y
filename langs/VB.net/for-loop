@@ -1,0 +1,13 @@
+Module Module1
+
+    Sub Main()
+
+        Dim langs() As String = {"English", "Spanish", "Portuguese", "French", "Italian"} 
+        
+        For x As Integer = 0 To langs.Length - 1 Step 1
+            Console.WriteLine(langs(x))
+        Next
+
+    End Sub
+
+End Module

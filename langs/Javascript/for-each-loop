@@ -1,3 +1,5 @@
-def foreach(fn,iterable):
-    for x in iterable: //for each item in the list
-        fn(x) //call the function "fn", passing the item as a parameter
+var a = [1, 2, 3, 4, 5]; // make a new list
+
+a.forEach(function(element) { // for each item in the list
+    console.log(element); // print out each item
+});
