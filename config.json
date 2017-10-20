@@ -2,7 +2,7 @@
   "languages": [
     "C",
     "C++",
-    "C#",
+    "C Sharp",
     "Go",
     "Java",
     "Javascript",
@@ -20,7 +20,7 @@
       "languages": [
         "C",
         "C++",
-        "C#",
+        "C Sharp",
         "Go",
         "Java",
         "Javascript",
@@ -39,7 +39,7 @@
       "languages": [
         "C",
         "C++",
-        "C#",
+        "C Sharp",
         "Go",
         "Java",
         "Javascript",
@@ -57,7 +57,7 @@
       "languages": [
         "C",
         "C++",
-        "C#",
+        "C Sharp",
         "Java",
         "Javascript",
         "Kotlin",
@@ -72,7 +72,7 @@
       "languages": [
         "C",
         "C++",
-        "C#",
+        "C Sharp",
         "Java",
         "Javascript",
         "PHP",
@@ -103,7 +103,7 @@
       "filename": "for-loop",
       "languages": [
         "C",
-        "C#",
+        "C Sharp",
         "Javascript",
         "PHP",
         "Python",
@@ -118,7 +118,7 @@
       "filename": "for-each-loop",
       "languages": [
         "C++",
-        "C#",
+        "C Sharp",
         "Java",
         "Javascript",
         "PHP",
@@ -133,7 +133,7 @@
       "languages": [
         "C",
         "C++",
-        "C#",
+        "C Sharp",
         "Java",
         "Javascript",
         "PHP",
@@ -147,7 +147,7 @@
       "filename": "vector",
       "languages": [
         "C++",
-        "C#",
+        "C Sharp",
         "Java",
         "Javascript",
         "PHP",
