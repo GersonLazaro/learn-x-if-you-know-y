@@ -1,0 +1,6 @@
+ var = value 		--Variable declaration with intialization
+ --[[This creates the variable in the global scope. You can also declare multiple variables at once]] 
+
+ var1, var2, var3 = val1, val2, val3
+
+ local var1, var2, var3 = val1, val2, val3 		--Creation of local variable

@@ -1,0 +1,5 @@
+print("Hello world") 			--Print with jump line
+io.write("Hello World")		-- Print without jumpline
+
+n1 = io.read() 		--Used to take input from STDIN, by default it take input as STRING)
+n1= io.read("*n")	--Input as integers
