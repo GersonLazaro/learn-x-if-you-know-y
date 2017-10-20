@@ -1,0 +1,16 @@
+char str[50] = "Roses are red";
+char str1[20] = "Violets are blue!";
+int strLen = strlen(str); // String length --> 13
+strcat(str, str1); // --> "Roses are red, Violets are blue!"
+char *substr = &str[10]; // "red" 
+
+/* Replace "e" Globally --> "Rosas ara rad" */
+for (i = 0; i < strLen; i++)
+     if (str[i] == 'e')
+         str[i] = 'a';
+/* To uppercase --> "ROSES ARE RED" */
+for (i = 0; i < strLen; i++)
+    str[i] = toupper(str[i]);
+/* To lowercase --> "roses are red" */
+for (i = 0; i < strLen; i++)
+    str[i] = tolower(str[i]);

@@ -1,0 +1,12 @@
+#include <string>       // include the string library
+#include<algorithm>     // for the transform and replace functions
+using namespace std;    // Or using std::string;
+
+string str = "Roses are red";
+int strLen = str.size(); String length --> 13
+int strLen = str.length(); String length --> 13
+string subStr = str.substr(10, 3); // "red"
+replace(str.begin(), str.end(), 'e', 'a'); // Replace "e" Globally --> "Rosas ara rad"
+transform(str.begin(), str.end(), str.begin(), ::toupper); // To uppercase --> "ROSES ARE RED"
+transform(str.begin(), str.end(), str.begin(), ::tolower); // To lowercase --> "roses are red"
+string concatStr = str + ", Violets are blue!"; // --> "Roses are red, Violets are blue!"

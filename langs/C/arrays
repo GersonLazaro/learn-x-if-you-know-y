@@ -1,4 +1,4 @@
-int a[10]; // Creation
-int b[] = {10,20,30,40,50}; // Alternate creation with initialisation 
+int a[100]; /* Creation */
+int b[] = {1,2,3,4,5}; /* Creation and initialization */
 
-a[5] = 40; // Access and modification of element
+a[5] = 34; /* Access and modification */
