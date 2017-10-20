@@ -1,0 +1,9 @@
+/***A "for" statement with a "range" clause iterates
+through all entries of an array,
+slice, string or map***/
+
+for index, element := range someArray {
+    // index is the index where we are
+    // element is the element from someSlice for where we are
+    fmt.Println(index, element)    
+}

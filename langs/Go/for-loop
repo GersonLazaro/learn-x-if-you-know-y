@@ -1,0 +1,3 @@
+for i := 0; i < 10; i++ { // Runs a loop ten times, look no ()
+    sum += i // executes statement 5 times
+}
