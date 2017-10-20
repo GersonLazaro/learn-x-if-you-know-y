@@ -1,0 +1,7 @@
+if condition then
+	--your code
+elseif condition then
+	--your code
+else
+	--your code
+end
