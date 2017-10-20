@@ -188,7 +188,8 @@
       "description": "Get a random number",
       "filename": "random",
       "languages": [
-        "Java"
+        "Java",
+        "Go"
       ]
     }
   ]
