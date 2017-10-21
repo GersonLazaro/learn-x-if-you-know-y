@@ -1,0 +1,7 @@
+var str = "Roses are red"; // No need to annotate the type, it can be inferred
+var strLen = str.length; // String length --> 13
+var substr = str.substring(10, 13); // "red"
+var n = str.replace(/e/g, "D"); // Replace "e" Globally --> "RosDs arD rDd"
+var strUpperCase = str.toUpperCase(); // To uppercase --> "ROSES ARE RED"
+var strLowerCase = str.toLowerCase(); // To lowercase --> "roses are red"
+var concatStr = str + ", Violets are blue!"; // --> "Roses are red, Violets are blue!"
