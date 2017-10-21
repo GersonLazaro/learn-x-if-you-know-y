@@ -1,0 +1,14 @@
+// TypeScript has static types, but it infers types when it can.
+// This way, it's not always needed to write type annotations
+
+var a = 10; // Numeric type
+var b = true; // Boolean (true or false)
+var c = "Text"; // String
+
+// These two cannot be directly inferred.
+// Any nullable type can match these, so both variables get 'any' as their type
+var d = null; // Null
+var e = undefined; // Undefined
+
+// A number variable that can have a null value at some point
+var nullableNumber: number | null = null

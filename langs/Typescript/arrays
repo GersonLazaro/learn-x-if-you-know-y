@@ -1,0 +1,14 @@
+var a = [] // Creation. The type of a becomes any[]
+var typedA: number[] = [] // Creation with explicit types
+
+// b's type is number[]
+var b = [1, 2, 3, 4, 5] // Creation and initialization.
+
+
+a[0] = 5 // Access and modification
+
+// This is okay, as the variable a has the type any[]
+a[1] = 'foo'
+
+// This throws an error at compile time
+typedA[1] = 'foo'
