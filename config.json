@@ -61,6 +61,7 @@
         "C",
         "C++",
         "C Sharp",
+        "Go",
         "Java",
         "Javascript",
         "Kotlin",
@@ -77,6 +78,7 @@
         "C",
         "C++",
         "C Sharp",
+        "Go",
         "Java",
         "Javascript",
         "PHP",
@@ -200,7 +202,8 @@
       "description": "Get a random number",
       "filename": "random",
       "languages": [
-        "Java"
+        "Java",
+        "Go"
       ]
     },
     {
