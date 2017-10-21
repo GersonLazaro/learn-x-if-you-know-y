@@ -1,0 +1,21 @@
+// TypeScript also supports Union Types. Check the example below
+function numberOrString(n: number) {
+    if (n % 2 == 0) {
+        return n
+    } else {
+        return n.toString()
+    }
+}
+
+// The numberOrString function can return either a number or a string:
+var numberTwo = numberOrString(2)
+
+// The type of the numberTwo variable is assumed to be number | string
+// However, TypeScript can narrow down a variable type in a code branch that checks it
+if (typeof numberTwo === 'number') {
+    // inside this block, numberTwo can be safely used as a number
+    var three = numberTwo + 1
+} else {
+    // And here, as a string
+    var letterT = numberTwo.substring(0, 1)
+}
