@@ -12,7 +12,7 @@ var i64 int64 = 2147483648 // Integers between -2^63 and (2^63)-1
 //unsigned integers
 var ui uint = 32768 //32-bits could be 64-bits depends on the system
 var ui8 uint8 = 10 // Integers between 0 and 255
-var by byte = 5 // Alias for uint8
+var byt byte = 5 // Alias for uint8
 var ui16 uint16 = 124 //  Integers between 0 and 65535
 var ui32 uint32 = 32768 // Integers between 0 and  4294967295 (2^32)
 var ui64 uint64 = 2147483648 // Integers between 0 and (2^64)
