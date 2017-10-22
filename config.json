@@ -2,6 +2,7 @@
   "languages": [
     "C",
     "C++",
+    "C Sharp",
     "Go",
     "Java",
     "Javascript",
@@ -10,7 +11,11 @@
     "Python",
     "Swift",
     "Ruby",
-    "Scala"
+    "Scala",
+    "Ruby",
+    "Swift",
+    "Typescript",
+    "VB.Net"
   ],
   "instructions": [{
       "name": "Hello World",
@@ -19,15 +24,20 @@
       "languages": [
         "C",
         "C++",
+        "C Sharp",
+        "Go",
         "Java",
         "Javascript",
         "Kotlin",
-        "Python",
         "PHP",
+        "Python",
+        "Ruby",
         "Swift",
         "Go",
         "Ruby",
-        "Scala"
+        "Scala",
+        "Typescript",
+        "VB.Net"
       ]
     },
     {
@@ -35,13 +45,18 @@
       "description": "Declaration of methods with parameters.",
       "filename": "methods",
       "languages": [
+        "C",
         "C++",
+        "C Sharp",
         "Go",
         "Java",
         "Javascript",
         "Kotlin",
         "Python",
-        "Swift"
+        "PHP",
+        "Ruby",
+        "Swift",
+        "Typescript"
       ]
     },
     {
@@ -49,12 +64,16 @@
       "description": "Declaration of the main data types",
       "filename": "data-types",
       "languages": [
+        "C",
         "C++",
+        "C Sharp",
+        "Go",
         "Java",
         "Javascript",
         "Kotlin",
+        "PHP",
         "Swift",
-        "PHP"
+        "Typescript"
       ]
     },
     {
@@ -62,12 +81,18 @@
       "description": "Data Collections",
       "filename": "arrays",
       "languages": [
+        "C",
         "C++",
+        "C Sharp",
+        "Go",
         "Java",
         "Javascript",
         "PHP",
         "Python",
-        "Swift"
+        "Ruby",
+        "Swift",
+        "Typescript",
+        "VB.Net"
       ]
     },
     {
@@ -79,8 +104,10 @@
         "C++",
         "Java",
         "Kotlin",
+        "PHP",
         "Python",
-        "PHP"
+        "Ruby",
+        "VB.Net"
       ]
     },
     {
@@ -88,9 +115,15 @@
       "description": "Execute a block of code a number of times",
       "filename": "for-loop",
       "languages": [
+        "C",
+        "C Sharp",
         "Javascript",
         "PHP",
-        "Swift"
+        "Python",
+        "Ruby",
+        "Swift",
+        "Typescript",
+        "VB.Net"
       ]
     },
     {
@@ -98,9 +131,14 @@
       "description": "Iterate over a collection, running the loop once for each item",
       "filename": "for-each-loop",
       "languages": [
+        "C++",
+        "C Sharp",
         "Java",
         "Javascript",
-        "PHP"
+        "PHP",
+        "Ruby",
+        "Typescript",
+        "VB.Net"
       ]
     },
     {
@@ -108,9 +146,15 @@
       "description": "String operations",
       "filename": "strings",
       "languages": [
+        "C",
+        "C++",
+        "C Sharp",
         "Java",
         "Javascript",
-        "Swift"
+        "PHP",
+        "Python",
+        "Swift",
+        "Typescript"
       ]
     },
     {
@@ -119,10 +163,13 @@
       "filename": "vector",
       "languages": [
         "C++",
+        "C Sharp",
         "Java",
         "Javascript",
+        "PHP",
         "Python",
-        "PHP"
+        "Ruby",
+        "Typescript"
       ]
     },
     {
@@ -139,7 +186,11 @@
       "description": "Join two strings",
       "filename": "concatenation",
       "languages": [
-        "Kotlin"
+        "Javascript",
+        "Kotlin",
+        "Python",
+        "Ruby",
+        "Typescript"
       ]
     },
     {
@@ -147,7 +198,26 @@
       "description": "Add two numbers",
       "filename": "add",
       "languages": [
-        "Kotlin"
+        "Javascript",
+        "Kotlin",
+        "Typescript"
+      ]
+    },
+    {
+      "name": "Random",
+      "description": "Get a random number",
+      "filename": "random",
+      "languages": [
+        "Java",
+        "Go"
+      ]
+    },
+    {
+      "name": "Union Types",
+      "description": "Types that represent the union of multiple other types. A variable of such type can contain a value of any of the components of the union",
+      "filename": "union-types",
+      "languages": [
+        "Typescript"
       ]
     }
   ]

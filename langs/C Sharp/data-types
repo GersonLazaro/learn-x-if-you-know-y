@@ -1,0 +1,19 @@
+sbyte a = 1; // Integers between -128 and 127
+short b = 128; // Integers between -32768 and 32767
+int c = 32768; // Integers between -2^31 and (2^31)-1
+long d = 2147483648l; // Integers between -2^63 and (2^63)-1
+float e = 3.14f; // Floating point number and simple precision
+double g = 3.14; // Floating point number and doble precision
+bool h = true; // Boolean Value (true or false)
+char i = 'a'; // Character
+
+// types representing integers come with an unsigned counterpart
+byte ua = 1 // integers between 0 and 255
+ushort ub = 128 // Integers between 0 and 65535
+uint uc = 2987654321 // Integers between 0 and 4294967295 (2^32)
+ulong ud = 2147483648l // Integers between 0 and 2^64
+
+// NOTE: all these types are aliases for value types in the System namespace
+// Examples: 
+// - int is alias for System.Int32 
+// - long is alias for System.Int64

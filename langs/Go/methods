@@ -7,10 +7,9 @@ import "fmt"
 //If more than one parameter share the same data type, you can just indicated in the
 //last one 
 
-//This is function
-func addTwoNumbers(x, y int32) int32 {
+func addTwoNumbers(numberOne, numberTwo int32) int32 {
   //Look no semi-colons
-  return x + y
+  return numberOne + numberTwo
 }
 
 //People struct like class that has attributes FirstName, and LastName

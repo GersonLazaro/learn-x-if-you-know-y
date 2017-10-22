@@ -1,0 +1,6 @@
+var a [20]int //creates an int arrays of 20 positions, all pos
+              //initialized in 0s
+
+b := [5]int{1,2,3,4,5} //creation and init
+value := b[1] //access the value at position 1, 0-indexed
+b[1] = 20 //Modification of the val at position 1

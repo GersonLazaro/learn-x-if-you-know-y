@@ -4,4 +4,5 @@
 var a = 10; // Numeric type
 var b = true; // Boolean (true or false)
 var c = "Text"; // String
-
+var d = null; // Null 
+var e = undefined; // Undefined
