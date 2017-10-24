@@ -1,5 +1,7 @@
 public class Main {
+	String string_es_ES = "Hola Mundo"; // Spanish "Hello World"
+	String string_en_EN = "Hello World";
 	public static void main (String[] args)  {
-		System.out.println("Hello World");
+		System.out.println(string_es_ES);
 	}
 }
