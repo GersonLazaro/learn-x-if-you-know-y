@@ -1,0 +1,4 @@
+a = [None] * 100 # Creation
+b = [1,2,3,4,5] # Creation and initialization
+
+a[5] = 34; # Creation and initialization

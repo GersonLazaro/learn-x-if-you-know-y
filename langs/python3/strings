@@ -1,0 +1,7 @@
+str = 'Roses are red' # Variables in python are not typed
+strLen = len(str) # String length --> 13
+substr = str[10:13] # 'red'
+n = str.replace('e','a') # Replace "e" Globally --> "Rosas ara rad"
+strUpperCase = str.upper() # To uppercase --> "ROSES ARE RED"
+strLowerCase = str.lower() # To lowercase --> "roses are red"
+concatStr = str + ', Violets are blue!' # --> "Roses are red, Violets are blue!"
