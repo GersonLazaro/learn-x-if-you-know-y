@@ -1,7 +1,0 @@
-a = int(input("Ingrese numero: ")) # Read an integer
-b = input("Ingrese string: ") # Read a string
-# In python3, you always read the entire line
-
-# Salida de datos
-print ("Print without jump line")
-print ("Print with jump line\n")
