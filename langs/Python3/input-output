@@ -1,0 +1,7 @@
+a = int(raw_input("Ingrese numero: ")) # Read an integer
+b = raw_input("Ingrese string: ") # Read a string
+# In python, you always read the entire line
+
+# Salida de datos
+print "Print without jump line"
+print "Print with jump line\n"
