@@ -1,8 +1,8 @@
 # Learn X if you Know Y
 
-Where X = Programming language that you want to learn & Y = Programming language that you already know.
+Where X = Programming language that you want to learn and Y = Programming language that you already know.
 
-Lean X if you know Y is a different way to learn the syntax of a new programming language if you already know other. Just select the language that you want to learn and the language that you already know. Now you can start to learn with comparative examples about coding different stuff in each language.
+Learn X if you know Y is a different way to learn the syntax of a new programming language if you already know another. Just select the language that you wish to learn and the language that you already know. You can now learn with comparative examples about coding different things in each language.
 
 ### I want to learn
 
@@ -10,7 +10,7 @@ Just go to [Learn X if you know Y](https://gersonlazaro.com/learn-x-if-you-know-
 
 ### I want to contribute
 
-This site needs help to grow. If you know some programming language (it doesn't matter if we already have it in the site or not), and want to help us, go to [contributing.md](contributing.md) and read the instruction for making contributions.
+This site needs help to grow. If you know any programming languages (it doesn't matter if we already have them listed on the site), and want to help us, please go to [contributing.md](contributing.md) and read the instructions for making contributions.
 
 ### License
 
