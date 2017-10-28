@@ -1,0 +1,12 @@
+//Concate two strings
+
+class concatenation{  
+ public static void main(String args[]){  
+   String firstName="Vishwas";
+   String lastName="Rajput";  
+   
+   String fullName=firstName.concat(lastName); //Use concat method to concat two strings
+   
+   System.out.println(fullName); // print fullName
+ }  
+}
