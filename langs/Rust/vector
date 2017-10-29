@@ -1,0 +1,15 @@
+fn main() {
+  let mut a: Vec<i32> = Vec::new();
+  // Insert
+  a.push(32);
+  // Get value in an index
+  a[0];
+  // Modify the given element (0) with the given value (25)
+  a[0] = 25;
+  // Delete value at a given index
+  a.remove(0);
+  // Delete all
+  a.truncate(0);
+  // Get size
+  a.len();
+}

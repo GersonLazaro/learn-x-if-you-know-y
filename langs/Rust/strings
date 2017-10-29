@@ -1,0 +1,9 @@
+fn main() {
+  let str = String::from("Roses are red");
+  let str_len = str.len(); // str length --> 13
+  //let substr = str.get(10..13); // "red"
+  let n = str.replace("e", "a"); // Replace "e" Globally --> "Rosas ara rad"
+  let str_uppercase = str.to_uppercase(); // To uppercase --> "ROSES ARE RED"
+  let str_lowercase = str.to_lowercase(); // To lowercase --> "roses are red"
+  let concat_str = str + ", Violets are blue!"; // --> "Roses are red, Violets are blue!"
+}

@@ -1,0 +1,11 @@
+fn main() {
+  use std::io;
+
+  // Input: Read and save as string
+  let mut input = String::new();
+  io::stdin().read_line(&mut input);
+
+  // Output
+  print!("Print withtout jump line");
+  println!("Print with jump line");
+}
