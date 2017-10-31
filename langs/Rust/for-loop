@@ -1,0 +1,15 @@
+fn main() {
+    let mut count = 0u32; // Mutable 32-bit unsigned integer
+
+    // Hello, World! printed 5 times
+    loop {
+        count += 1;
+
+        println!("Hello, World!");
+
+        if count == 5 {
+            // Exit this loop
+            break;
+        }
+    }
+}

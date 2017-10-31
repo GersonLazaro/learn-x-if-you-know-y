@@ -1,0 +1,6 @@
+fn main() {
+  let mut a: [i32; 100] = [0; 100];  // Creation and initialization with 0
+  let mut b: [i32; 5] = [1,2,3,4,5]; // Creation and initialization with 1..5
+
+  a[5] = 34;  // Access and modification
+}

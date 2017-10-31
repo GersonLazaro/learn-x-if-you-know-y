@@ -13,6 +13,7 @@
     "PHP",
     "Python",
     "Ruby",
+    "Rust",
     "Swift",
     "Typescript",
     "VB.Net"
@@ -34,6 +35,7 @@
         "PHP",
         "Python",
         "Ruby",
+        "Rust",
         "Swift",
         "Typescript",
         "VB.Net"
@@ -57,6 +59,7 @@
         "Python",
         "PHP",
         "Ruby",
+        "Rust",
         "Swift",
         "Typescript"
       ]
@@ -76,6 +79,7 @@
         "Kotlin",
         "Lua",
         "PHP",
+        "Rust",
         "Swift",
         "Typescript"
       ]
@@ -96,6 +100,7 @@
         "PHP",
         "Python",
         "Ruby",
+        "Rust",
         "Swift",
         "Typescript",
         "VB.Net"
@@ -114,6 +119,7 @@
         "PHP",
         "Python",
         "Ruby",
+        "Rust",
         "VB.Net"
       ]
     },
@@ -130,6 +136,7 @@
         "PHP",
         "Python",
         "Ruby",
+        "Rust",
         "Swift",
         "Go",
         "Typescript",
@@ -148,6 +155,7 @@
         "Javascript",
         "PHP",
         "Ruby",
+        "Rust",
         "Go",
         "Typescript",
         "VB.Net"
@@ -167,6 +175,7 @@
         "Lua",
         "PHP",
         "Python",
+        "Rust",
         "Swift",
         "Typescript"
       ]
@@ -184,6 +193,7 @@
         "PHP",
         "Python",
         "Ruby",
+        "Rust",
         "Typescript"
       ]
     },
