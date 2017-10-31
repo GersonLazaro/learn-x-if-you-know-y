@@ -1,0 +1,5 @@
+Queue<Integer> q = new LinkedList<Integer>();
+q.add(15); //Insert
+q.poll(); //Get and remove the top element
+q.peek(); //Get the top element without remove it
+q.isEmpty(); //Verify if the queue is empty

@@ -1,0 +1,7 @@
+map<int, string> t; //Key, Value
+t[9] = "Septiembre"; // Insert
+t.count(9); // Check if a Key exists
+t.erase(9); // Delete the Key-Value pair
+t.empty(); // Verify if the Map is empty
+t.clear(); // Delete all
+t.size(); // Get size

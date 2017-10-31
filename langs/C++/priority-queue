@@ -1,0 +1,5 @@
+priority_queue<int> pq;
+pq.push(15); //Insert
+pq.pop(); //Remove the top element
+pq.top(); //Get the top element without remove 
+pq.empty(); //Verify if the Prioriy Queue is empty

@@ -188,6 +188,42 @@
       ]
     },
     {
+      "name": "Queue",
+      "description": "A collection of elements that are inserted and removed according to the first-in first-out (FIFO) principle",
+      "filename": "queue",
+      "languages": [
+        "C++",
+        "Java"
+      ]
+    },
+    {
+      "name": "Stack",
+      "description": "A collection of elements that are inserted and removed according to the last-in first-out (LIFO) principle",
+      "filename": "stack",
+      "languages": [
+        "C++",
+        "Java"
+      ]
+    },
+    {
+      "name": "Priority Queue",
+      "description": "A queue where the elements are ordered",
+      "filename": "priotity-queue",
+      "languages": [
+        "C++",
+        "Java"
+      ]
+    },
+    {
+      "name": "Treemap",
+      "description": "Orderly collection of Key - Value pairs without duplicate keys",
+      "filename": "treemap",
+      "languages": [
+        "C++",
+        "Java"
+      ]
+    },
+    {
       "name": "Concatenation",
       "description": "Join two strings",
       "filename": "concatenation",
