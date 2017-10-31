@@ -1,0 +1,27 @@
+//Concate two string without using stringcat function
+
+#include <stdio.h>
+int main()
+{
+    //let us declare two string (char array) variable
+	char s1[100], s2[100], i, j;
+
+    printf("Enter first string: ");
+    scanf("%s", s1);  //read first string variable
+
+    printf("Enter second string: ");
+    scanf("%s", s2); // read second string variable
+
+   
+    for(i = 0; s1[i] != '\0'; ++i); //traverse first string till end
+
+    for(j = 0; s2[j] != '\0'; ++j, ++i) //start appending characters of second string to the first string
+    {
+        s1[i] = s2[j];
+    }
+
+    s1[i] = '\0';
+    printf("After concatenation: %s", s1); // display the result
+	
+	return 0;
+}	
