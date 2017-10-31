@@ -1,0 +1,7 @@
+fn add_two_numbers(number_one: i32, number_two: i32) -> i32 {
+  return number_one + number_two;
+}
+
+fn main() {
+    println!("{}", add_two_numbers(2048, 42));
+}

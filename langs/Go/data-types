@@ -1,0 +1,26 @@
+
+var s string = "a string"
+var b bool = true // bool can be true or false
+
+//signed integers
+var i int = 32768 //32-bits could be 64-bits depends on the system
+var i8 int8 = 10 // Integers between -128 and 127
+var i16 int16 = 124 //  Integers between -32768 and 32767
+var i32 int32 = -22768 // Integers between -2^31 and (2^31)-1
+var i64 int64 = 2147483648 // Integers between -2^63 and (2^63)-1
+
+//unsigned integers
+var ui uint = 32768 //32-bits could be 64-bits depends on the system
+var ui8 uint8 = 10 // Integers between 0 and 255
+var byt byte = 5 // Alias for uint8
+var ui16 uint16 = 124 //  Integers between 0 and 65535
+var ui32 uint32 = 32768 // Integers between 0 and  4294967295 (2^32)
+var ui64 uint64 = 2147483648 // Integers between 0 and (2^64)
+
+//Floats
+var f float32 = 10.00 // Single precision float
+var df float64 = 102.0762 // Double precision float
+
+//complex nums F* yeah
+var comp64 complex64 = 100.0 + 7.0i // Go uses complex number type
+var comp128 complex128 = 7.0 + 100.0i // complex64 uses float32 and complex128 uses float64

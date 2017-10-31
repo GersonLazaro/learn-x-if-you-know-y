@@ -1,0 +1,7 @@
+//simple random number between 0.0 and 1.0
+double number = Math.random();
+System.out.println("The number is: " + number);
+
+//a number between 3 and 8
+int number = (int) (Math.random()*5)+3;
+System.out.println("The number is: " + number);

@@ -1,0 +1,13 @@
+a = []
+# Insert
+a.push(32)
+# Get value in an index
+a[1]
+# Modify the given element (0) with the given value (25)
+a[0] = 25
+# Delete value at a given index
+a.splice(3, 1)
+# Delete all
+a.splice(0, a.length)
+# Get size
+a.length;

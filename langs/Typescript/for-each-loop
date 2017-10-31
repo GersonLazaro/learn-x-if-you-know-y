@@ -1,0 +1,5 @@
+var a = [1, 2, 3, 4, 5]; // make a new list
+
+a.forEach((element: number) => {
+    console.log(element)
+})

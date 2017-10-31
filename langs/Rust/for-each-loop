@@ -1,0 +1,7 @@
+fn main() {
+  let list: [i32; 5] = [1,2,3,4,5]; // Creation and initialization with 1..5
+
+  for item in list.iter() { //for each item in list
+    println!("{}", item); //print out each item
+  }
+}

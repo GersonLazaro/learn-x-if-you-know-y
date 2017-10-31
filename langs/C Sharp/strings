@@ -1,0 +1,7 @@
+string str = "Roses are red";
+int strLen = str.Length; // String length --> 13
+string substr = str.Substring(10, 13); // "red"
+string n = str.Replace("e","a"); // Replace "e" Globally --> "Rosas ara rad"
+string strUpperCase = str.ToUpperCase(); // To uppercase --> "ROSES ARE RED"
+string strLowerCase = str.ToLowerCase(); // To lowercase --> "roses are red"
+string concatStr = str + ", Violets are blue!"; // --> "Roses are red, Violets are blue!"

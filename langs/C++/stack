@@ -1,0 +1,5 @@
+stack<int> s;
+s.push(15); //Insert to the top
+s.top(); //Get the top element
+s.pop(); //Remove the top elemnt
+s.empty(); //Verify if the stack is empty

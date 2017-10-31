@@ -1,0 +1,7 @@
+TreeMap<Integer, String> t=new TreeMap<Integer, String>(); //Key, Value
+t.put(9, "Septiembre"); // Insert
+t.containsKey(9); // Check if a Key exists
+t.remove(9); // Delete the Key-Value pair
+t.isEmpty(); // Verify if the TreeMap is empty
+t.clear(); // Delete all
+t.size(); // Get size

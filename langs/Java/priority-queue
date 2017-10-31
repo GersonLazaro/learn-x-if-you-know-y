@@ -1,0 +1,5 @@
+PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
+pq.add(15); //Insert
+pq.poll(); //Get and remove the top element
+pq.peek(); //Get the top element without remove 
+pq.isEmpty(); //Verify if the Prioriy Queue is empty

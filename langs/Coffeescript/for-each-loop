@@ -1,0 +1,2 @@
+a = [1, 2, 3, 4, 5] # make a new list
+console.log element for element in a # for each item in the list, print out each item

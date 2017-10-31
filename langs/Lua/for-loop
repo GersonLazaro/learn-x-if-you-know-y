@@ -1,0 +1,6 @@
+-- Single line comments in Lua
+
+for var = initialization, limit, step do
+		--your code goes here
+end
+

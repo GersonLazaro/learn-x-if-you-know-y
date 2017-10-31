@@ -1,0 +1,5 @@
+Stack<Integer> s = new Stack<Integer>();
+s.push(15); //Insert to the top
+s.peek(); //Get the top element
+s.pop(); //Get and remove the top elemnt
+s.empty(); //Verify if the stack is empty

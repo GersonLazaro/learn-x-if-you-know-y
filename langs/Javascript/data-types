@@ -1,7 +1,15 @@
 // Javascript is dynamically typed 
 // It is not required to indicate data type in the variables
 
+// There are 7 data types
+
+// Six primivite data types:
 var a = 10; // Numeric type
 var b = true; // Boolean (true or false)
 var c = "Text"; // String
+var d = null; // Null 
+var e = undefined; // Undefined
+var f = Symbol(); // Symbol (ECMAScript 6)
 
+// and one composite data type:
+var person = {firstName:'John', lastName:'Doe', age:'30'}; // Object

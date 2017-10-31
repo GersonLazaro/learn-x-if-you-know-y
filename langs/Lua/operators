@@ -1,0 +1,28 @@
+Operators present in Lua are :-(Let A=10 , B=20 , s1= “ab” , s2 = “cd”) 
+Operator 	Description 										Example 
++ 			Adds two operands 								A + B will give 30 
+- 		Subtracts second operand from the first 			A-B will give -10 
+* 			Multiply both operands 							A*B will give 200 
+/ 		Divide numerator by de-numerator 					B / A will give 2 
+% 		Remainder of after an integer division 				B % A will give 0 
+^ 		Exponent Operator takes the exponents 				A^2 will give 100 
+- 		Unary - operator acts as negation 					-A will give -10 
+== 	Checks if the value of two operands are equal or not 	(A == B) is not true.
+
+~= 	Checks if the value of two operands are equal or not, if values are not equal then condition becomes true. 	(A ~= B) is true. 
+
+< , > 	Compares the two operands and returns true or false 	(A > B) is false 
+(A < B) is true. 
+
+>= , <= 	Compares the value of left operand with right operand, if yes then condition becomes true for ‘>=’ and false for ‘<=’ 	(A >= B) is not true and (A <= B) is true. 
+
+"and" 	Called Logical AND operator. If both the operands are non zero then condition becomes true. 	(A and B) is false. 
+
+"or" 	Called Logical OR Operator. If any of the two operands is non zero then condition becomes true. 	(A or B) is true. 
+
+"not" 	Called Logical NOT Operator. If a condition is true then Logical NOT operator will make false. 	not(A and B) is false 
+
+.. 	Concatenates two strings. 	s1..s2 will give abcd 
+
+# 	An unary operator that return the length of the a string. 	#"Hello" will return 5 
+

@@ -1,0 +1,7 @@
+str = "Roses are red"
+strLen = str.length # String length --> 13
+substr = str.substring(10, 13) # "red"
+n = str.replace(/e/g, "D") #  Replace "e" Globally --> "RosDs arD rDd"
+strUpperCase = str.toUpperCase() # To uppercase --> "ROSES ARE RED"
+strLowerCase = str.toLowerCase() # To lowercase --> "roses are red"
+concatStr = str + ", Violets are blue!" # --> "Roses are red, Violets are blue!"

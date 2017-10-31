@@ -1,0 +1,41 @@
+string1 = "Lua" 
+print("\"String 1 is\"",string1) 	--OUTPUT: Lua
+
+string2 = 'Lua' 
+print("String 2 is",string2) 		--OUTPUT: Lua
+
+string3 = [["Lua Tutorial"]] 		
+print("String 3 is",string3)		--Output: "Lua Tutorial"
+
+String Manipulation:-
+--argument is any string value or variable
+
+1. string.upper(argument)
+Returns a capitalized representation of the argument.
+
+2. string.lower(argument)
+Returns a lower case representation of the argument.
+
+3. string.gsub(mainString,findString,replaceString)
+Returns a string by replacing occurrences of findString with replaceString.
+
+4. string.strfind(mainString,findString, optionalStartIndex,optionalEndIndex)
+Returns the start index and end index of the findString in the main string and nil if not found.
+
+5. string.reverse(arg)
+Returns a string by reversing the characters of the passed string.
+
+6. string.format(...)
+Returns a formatted string.
+
+7. tring.char(arg) and string.byte(arg)
+Returns internal numeric and character representations of input argument.
+
+8. string.len(arg)
+Returns a length of the passed string.
+
+9. string.rep(string, n))
+Returns a string by repeating the same string n number times.
+
+10. ..
+Thus operator concatenates two strings.

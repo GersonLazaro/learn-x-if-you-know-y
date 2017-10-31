@@ -1,0 +1,18 @@
+package main
+
+import (
+	"fmt"
+	"math/rand"
+	"time"
+)
+
+func main() {
+	rand.Seed(time.Now().UnixNano()) // init the seed with a random number given by the time
+
+	between0and1 := rand.Float64() //creates a random between [0,1) (Uniform distribution)
+	fmt.Println(between0and1)
+
+	randomInt := rand.Intn(21) //create a random Integer between [0, 21) (Uniform distribution)
+	fmt.Println(randomInt)
+
+}

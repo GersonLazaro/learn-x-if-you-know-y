@@ -1,0 +1,12 @@
+fn main() {
+  let a_byte: i8 = 1;     // Integers between -128 and 127
+  let a_short: i16 = 128; // Integers between -32768 and 32767
+  let an_integer: i32 = 32768;  // Integers between -2^31 and (2^31)-1
+  let a_long: i64 = 2147483648; // Integers between -2^63 and (2^63)-1
+  let a_float: f32 = 3.14;  // Floating point number and simple precision
+  let a_double: f64 = 3.14; // Floating point number and double precision
+  let a_bool: bool = true;  // Boolean Value (true or false)
+  let a_char: char = 'a';   // Character (4 bytes each)
+
+  // Integers also have unsigned u8, u16, u32, u64 types
+}
