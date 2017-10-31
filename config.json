@@ -227,7 +227,7 @@
     {
       "name": "Priority Queue",
       "description": "A queue where the elements are ordered",
-      "filename": "priotity-queue",
+      "filename": "priority-queue",
       "languages": [
         "C++",
         "Java"
