@@ -3,6 +3,7 @@
     "C",
     "C++",
     "C Sharp",
+    "Coffeescript",
     "Go",
     "Haskell",
     "Java",
@@ -24,6 +25,7 @@
         "C",
         "C++",
         "C Sharp",
+        "Coffeescript",
         "Go",
         "Haskell",
         "Java",
@@ -45,6 +47,7 @@
         "C",
         "C++",
         "C Sharp",
+        "Coffeescript",
         "Go",
         "Haskell",
         "Java",
@@ -66,6 +69,7 @@
         "C",
         "C++",
         "C Sharp",
+        "Coffeescript",
         "Go",
         "Java",
         "Javascript",
@@ -84,6 +88,7 @@
         "C",
         "C++",
         "C Sharp",
+        "Coffeescript",
         "Go",
         "Haskell",
         "Java",
@@ -119,6 +124,7 @@
       "languages": [
         "C",
         "C Sharp",
+        "Coffeescript",
         "Javascript",
         "Lua",
         "PHP",
@@ -137,6 +143,7 @@
       "languages": [
         "C++",
         "C Sharp",
+        "Coffeescript",
         "Java",
         "Javascript",
         "PHP",
@@ -154,6 +161,7 @@
         "C",
         "C++",
         "C Sharp",
+        "Coffeescript",
         "Java",
         "Javascript",
         "Lua",
@@ -170,6 +178,7 @@
       "languages": [
         "C++",
         "C Sharp",
+        "Coffeescript",
         "Java",
         "Javascript",
         "PHP",
@@ -192,6 +201,7 @@
       "description": "Join two strings",
       "filename": "concatenation",
       "languages": [
+        "Coffeescript",
         "Javascript",
         "Kotlin",
         "Python",
@@ -204,6 +214,7 @@
       "description": "Add two numbers",
       "filename": "add",
       "languages": [
+        "Coffeescript",
         "Javascript",
         "Kotlin",
         "Typescript"

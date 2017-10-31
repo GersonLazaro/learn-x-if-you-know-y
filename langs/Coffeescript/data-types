@@ -1,0 +1,15 @@
+# Coffeescript is dynamically typed
+# It is not required to indicate data type in the variables
+
+# There are 7 data types
+
+# Six primivite data types:
+a = 10 # Numeric Type
+b = true # Boolean (true or false)
+c = "Text" # String
+d = null # Null
+d = undefined # Undefined
+f = Symbol() # Symbol (ECMAScript 6)
+
+# and one composite data type:
+person = {firstName:'John', lastName:'Doe', age:'30'}; # Object
