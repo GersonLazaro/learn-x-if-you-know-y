@@ -1,0 +1,20 @@
+//There are two types of structures similar to the treemap
+
+SortedDictionary <int,string> dicc = new SortedDictionary<int, string> (); //Key - Value
+dicc.Add (1, "junay"); //Add a Key-Value pair
+dicc.ContainsKey (1); //Check if an Key exists (Boolean)
+dicc.ContainsValue ("junay"); //Check if an Value exists (Boolean)
+dicc.Remove (1); //Delete a Key-Value pair
+dicc.Clear (); //Delete all
+dicc.Count; //Get size
+
+SortedList<int,string> dicc1 = new SortedList<int, string> ();
+dicc1.Add (1, "michael"); //Add a Key-value pair
+dicc1.ContainsKey (1); //Check if a Key exists (Boolean)
+dicc1.ContainsValue ("michael"); //Check if a Value exists (Boolean)
+dicc1.Remove (1); //Delete a Key-Value pair according the Key
+dicc1.Clear (); //Delete all
+dicc1.Count; //Get size
+dicc1.RemoveAt(0); //Delete a Key-Value pair according Index
+dicc1.IndexOfKey (1); //Get index of the Key-Value according the Key
+dicc1.IndexOfValue ("michael"); //Get index of the Key-Value according the Value
