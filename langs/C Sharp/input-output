@@ -1,0 +1,8 @@
+//Input
+Console.Read(); //Read a character or number (key)
+Console.ReadKey(); //Read a key
+Console.ReadLine(); //Read a line
+
+//Output
+Console.Write("Print without jump line");
+Console.WriteLine ("Print with jump line");

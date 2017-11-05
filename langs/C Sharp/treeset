@@ -1,0 +1,6 @@
+SortedSet<int> valores = new SortedSet<int> ();
+valores.Add (1); //Add
+valores.Contains (1); //Check if an itemt exist
+valores.Remove (1); //Delete value
+valores.Clear (); //Delete all
+valores.Count; //Get size
