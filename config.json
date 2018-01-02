@@ -12,6 +12,9 @@
     "Lua",
     "PHP",
     "Python",
+    "Swift",
+    "Ruby",
+    "Scala",
     "Ruby",
     "Rust",
     "Swift",
@@ -37,6 +40,9 @@
         "Ruby",
         "Rust",
         "Swift",
+        "Go",
+        "Ruby",
+        "Scala",
         "Typescript",
         "VB.Net"
       ]
