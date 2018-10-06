@@ -248,6 +248,7 @@
       "filename": "concatenation",
       "languages": [
         "Coffeescript",
+        "Java",
         "Javascript",
         "Kotlin",
         "Python",
