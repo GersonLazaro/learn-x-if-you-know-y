@@ -1,0 +1,13 @@
+-- whole IO example
+main = do
+    putStrLn "Hello, what's your name?"
+    name <- getLine
+    putStrLn ("Hey " ++ name ++ ", you rock!")
+
+-- input
+getLine     -- read a line from the standard input device
+getChar     -- read a character from the standard input device
+
+-- output
+putStr      -- write a string to the standard output device
+putStrLn    -- the same as putStr, but adds a newline character
