@@ -113,6 +113,7 @@
       "languages": [
         "C",
         "C++",
+        "Haskell",
         "Java",
         "Kotlin",
         "Lua",
@@ -170,6 +171,7 @@
         "C++",
         "C Sharp",
         "Coffeescript",
+        "Haskell",
         "Java",
         "Javascript",
         "Lua",
@@ -248,6 +250,7 @@
       "filename": "concatenation",
       "languages": [
         "Coffeescript",
+        "Haskell",
         "Javascript",
         "Kotlin",
         "Python",
@@ -271,8 +274,9 @@
       "description": "Get a random number",
       "filename": "random",
       "languages": [
-        "Java",
-        "Go"
+        "Go",
+        "Haskell",
+        "Java"
       ]
     },
     {

@@ -1,0 +1,3 @@
+import System.Random
+
+newRandom = randomIO :: IO Int

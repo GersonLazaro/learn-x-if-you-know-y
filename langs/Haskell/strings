@@ -1,0 +1,14 @@
+import Data.Char
+
+let chr = "Roses are red"                           -- :type [Char]
+let str = "Roses are red" :: String                 -- :type String
+let lengthOfStr = length str                        -- 13
+let firstCharOfStr = head str                       -- 'R'
+let lastCharOfStr = last str                        -- 'd'
+let seventhCharOfStr = str !! 7                     -- 'r'
+let strReverse = reverse str                        -- "der era sesoR"
+let strUpperCase = map toUpper str                  -- "ROSES ARE RED"
+let strLowerCase = map toLower str                  -- "roses are red"
+let concatStr = str ++ ", Violets are blue!"        -- "Roses are red, Violets are blue!"
+let concatMany = concat ["Roses ", "are ", "red"]   -- "Roses are red"
+
