@@ -1,0 +1,3 @@
+-- | joinStrings "a" "bc" -- will return "abc"
+joinStrings :: String -> String -> String
+joinStrings = (++)
