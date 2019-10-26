@@ -1,5 +1,5 @@
 hacktoberFest = ['pull request', 'four', 'tshirt']
 
 for x in hacktoberFest:
-    print (x)                     # print x     will also work 
+    print (x)                     # print x     will not work 
     
