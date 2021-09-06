@@ -101,8 +101,8 @@ function getExample (filename, lang, node) {
       // Syntax highlighting with better support for more languages
       // Refer to Highlight.js docs for language aliases
       let langAlias = lang.toLowerCase();
-      langAlias = langAlias.replaceAll(' ', '');
-      langAlias = langAlias.replaceAll('+', 'p'); // for C++
+      langAlias = langAlias.replaceAll(' ', ''); // remove spaces
+      langAlias = langAlias.replaceAll('.', ''); // for VB.net
       pre.innerHTML = hljs.highlight(
         request.responseText, {language: langAlias}
       ).value;
