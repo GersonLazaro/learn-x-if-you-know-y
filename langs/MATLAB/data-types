@@ -14,7 +14,7 @@ g = uint16(32); % 16-bit unsigned integer
 
 % Boolean / Logical
 h = true
-i = logical(2) % also true
+k = logical(2) % also true
 
-j = 'a' % Char
-k = "Text" % String
+l = 'a' % Char
+m = "Text" % String
