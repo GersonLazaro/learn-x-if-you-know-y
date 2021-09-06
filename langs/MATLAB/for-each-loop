@@ -1,5 +1,6 @@
 hacktoberFest = ["pull request", "four", "tshirt"];
 
+% Print all elements in newlines:
 for x = hacktoberFest
     disp(x);
 end
