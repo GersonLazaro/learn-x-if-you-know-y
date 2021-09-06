@@ -1,6 +1,6 @@
 c = addTwoNumbers(1, 3); 
 
-function [sum] = add(a, b)
+function [sum] = addTwoNumbers(a, b)
     sum = a + b;
 end
 % Note: functions are defined at the end in Matlab
