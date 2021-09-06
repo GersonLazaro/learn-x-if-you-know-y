@@ -1,0 +1,20 @@
+% By default, numeric values have a type of 'double'.
+
+a = 10.6; % double (64-bit float)
+b = single(11.1); % single (32-bit float)
+c = int8(127); % 8-bit signed int (-2^7 to 2^7-1)
+d = int16(128); % 16-bit signed integer
+e = int32(2147483647); % 32-bit signed integer
+f = int64(2147483648); % 64-bit signed integer
+% The variables above are all 1x1 arrays
+% All MATLAB variables are multidimensional arrays
+
+% for unsigned integers, just add u to the data type:
+g = uint16(32); % 16-bit unsigned integer
+
+% Boolean / Logical
+h = true
+i = logical(2) % also true
+
+j = 'a' % Char
+k = "Text" % String

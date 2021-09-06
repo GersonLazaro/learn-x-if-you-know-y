@@ -1,0 +1,10 @@
+% Remember: Matlab does not use zero-based indexing
+% Variables in Matlab are not typed
+str = "Roses are red" % use double quotes
+strLen = strlength(str) % String length --> 13
+substr = extractBetween(str,11,13) % 'red'
+n = strrep(str,'e','a') % Replace "e" Globally --> "Rosas ara rad"
+strUpperCase = upper(str) % To uppercase --> "ROSES ARE RED"
+strLowerCase = lower(str) % To lowercase --> "roses are red"
+concatStr =  strcat(str, ", Violets are blue!") 
+% concatStr --> "Roses are red, Violets are blue!"

@@ -1,0 +1,5 @@
+hacktoberFest = ["pull request", "four", "tshirt"];
+
+for x = hacktoberFest
+    disp(x);
+end
