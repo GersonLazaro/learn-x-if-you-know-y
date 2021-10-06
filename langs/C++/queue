@@ -1,5 +1,5 @@
 queue<int> q;
 q.push(15); //Insert
-q.pop(); //Remove the top element
-q.front(); //Get the top element without remove it
+q.pop(); //Remove the front element
+q.front(); //Get the front element without remove it
 q.empty(); //Verify if the queue is empty
