@@ -1,0 +1,8 @@
+% simple random number between 0.0 and 1.0
+X = rand;
+disp("The number is: " + X);
+
+% an integer between 3 and 8
+rand_int = int8((rand * 5) + 3); 
+% int8() is used to convert the output to 8-bit integer
+disp("The number is: " + rand_int);

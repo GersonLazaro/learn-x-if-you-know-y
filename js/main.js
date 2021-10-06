@@ -98,8 +98,14 @@ function getExample (filename, lang, node) {
   request.onload = function () {
     if (request.status >= 200 && request.status < 400) {
       // Configuración leída exitosamente
-      pre.textContent = request.responseText;
-      hljs.highlightBlock(pre);
+      // Syntax highlighting with better support for more languages
+      // Refer to Highlight.js docs for language aliases
+      let langAlias = lang.toLowerCase();
+      langAlias = langAlias.replaceAll(' ', ''); // remove spaces
+      langAlias = langAlias.replaceAll('.', ''); // for VB.net
+      pre.innerHTML = hljs.highlight(
+        request.responseText, {language: langAlias}
+      ).value;
     } else {
       // TODO: Manejar error devuelto por el servidor
     }

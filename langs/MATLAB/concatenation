@@ -1,0 +1,5 @@
+% strcat() joins 2 or more strings:
+string1 = "Hello ";
+string2 = "World";
+joined_str = strcat(string1, string2);
+% joined_str --> "Hello World"
