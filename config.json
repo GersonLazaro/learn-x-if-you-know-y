@@ -258,6 +258,7 @@
       "filename": "concatenation",
       "languages": [
         "Coffeescript",
+        "Haskell",
         "Javascript",
         "Kotlin",
         "MATLAB",
@@ -272,6 +273,7 @@
       "filename": "add",
       "languages": [
         "Coffeescript",
+        "Haskell",
         "Javascript",
         "Kotlin",
         "Typescript"
