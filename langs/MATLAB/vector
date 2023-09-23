@@ -1,0 +1,19 @@
+% IMPORTANT: Matlab does NOT use zero base indexing
+a = [2, 3]
+a = [a, 4] % Insert
+a(1) % Get value at index 1
+% Modify the index 1 with the given value (25)
+a(1) = 25   % a --> [25, 3, 4]
+% Delete value at a given index
+a(1) = [];  % a --> [3, 4]
+% Get size
+length(a);  % --> 2
+
+% Join two or more arrays:
+b = [5, 6];
+c = [a, b]; % --> [3, 4, 5, 6]
+
+% Multidimensional arrays:
+d = [1, 2, 3; 4, 5, 6] % 2x3 array
+% Get value
+d(2, 1) % --> 4

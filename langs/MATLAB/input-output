@@ -1,0 +1,7 @@
+% Read lines:
+a = input("Ingrese numero: ") % Read an integer/double
+b = input("Ingrese string: ", 's') % Read a string
+
+% Output
+fprintf("Print without jump line")
+disp("Print with jump line")

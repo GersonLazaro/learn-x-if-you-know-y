@@ -1,0 +1,4 @@
+% Outputs 1,2,...,5 on newlines
+for x = 1:5
+    disp(x);
+end
